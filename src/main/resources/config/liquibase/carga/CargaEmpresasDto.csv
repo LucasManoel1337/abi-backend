@@ -1,0 +1,81 @@
+id,nome,categoria,descricao,funcao
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0001,Estúdio Forma Urbana,Arquitetura e Urbanismo & Design,Projetos de interiores e arquitetura,Assistente de CAD
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0002,VerdeTech Agro,Ciências Agrárias & Meio Ambiente,Soluções sustentáveis para agricultura,Técnico ambiental
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0003,Clínica Vida Plena,Ciências Biológicas e da Saúde,Clínica multidisciplinar,Auxiliar de enfermagem
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0004,Instituto Saber,Ciências Humanas,Projetos educacionais e sociais,Monitor pedagógico
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0005,Lima & Advogados,Ciências Jurídicas,Assessoria jurídica empresarial,Estagiário jurídico
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0006,Hospital São Lucas,Ciências Médicas,Atendimento de média e alta complexidade,Recepcionista hospitalar
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0007,Agência Criativa 360,Comunicação & Artes,Publicidade e mídias digitais,Editor de vídeo júnior
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0008,Construtora Alpha,Engenharias,Execução de obras civis,Desenhista técnico
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0009,Grupo GestaCorp,Gestão & Negócios,Consultoria empresarial,Assistente administrativo
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0010,CodeMasters Brasil,TI & Computação,Desenvolvimento de softwares personalizados,Suporte técnico
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0011,Hotel Serra Azul,Turismo & Hospitalidade,Hotel de alto padrão no interior,Camareira
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0012,FoodExpress,Sem graduação,Rede de lanches e fast food,Atendente de lanchonete
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0013,Construtora Mão Forte,Sem graduação,Construções e reformas,Servente de pedreiro
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0014,Supermercado Econômico,Sem graduação,Rede de supermercados com filiais em SP,Repositor de mercadorias
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0015,Express Entregas Urbanas,Sem graduação,Serviços logísticos e de entrega local,Motoboy
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0016,Lava Rápido Turbo,Sem graduação,Lavagem automotiva rápida,Lavador de carros
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0017,Serviço Pronto Manutenções,Sem graduação,Serviços residenciais diversos,Ajudante geral
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0018,Coletivo de Eventos SP,Sem graduação,Produção de festas e eventos corporativos,Montador de estrutura
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0019,Café da Vila,Sem graduação,Padaria e cafeteria tradicional,Garçom / garçonete
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0020,Limpeza Top,Sem graduação,Serviços terceirizados de limpeza comercial,Auxiliar de limpeza
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0021,Minsait,TI & Computação,Soluções digitais e consultoria em tecnologia,Desenvolvedor Java
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0022,Studio Rastro,Comunicação & Artes,Produção audiovisual e branding,Assistente de criação
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0023,BioVerde Ambiental,Ciências Agrárias & Meio Ambiente,Gestão e monitoramento ambiental,Técnico em meio ambiente
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0024,Instituto Movimento Humano,Ciências Biológicas e da Saúde,Terapias corporais e bem-estar,Fisioterapeuta auxiliar
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0025,Centro de Estudos Raízes,Ciências Humanas,Cursos e projetos sociais,Educador comunitário
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0026,Mendes & Associados,Ciências Jurídicas,Consultoria e advocacia,Auxiliar jurídico
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0027,Clínica Médica Popular,Ciências Médicas,Atendimento clínico acessível,Auxiliar de consultório
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0028,Cubo Publicidade,Comunicação & Artes,Criação de campanhas digitais,Social media júnior
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0029,Construtora Ideal,Engenharias,Projetos e execução de obras,Auxiliar de engenharia civil
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0030,Grupo Gestão+Mais,Gestão & Negócios,Planejamento financeiro e estratégico,Auxiliar de planejamento
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0031,NovaWeb Solutions,TI & Computação,Agência de desenvolvimento web,Estagiário em front-end
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0032,Pousada Brisa da Serra,Turismo & Hospitalidade,Hospitalidade em região montanhosa,Auxiliar de recepção
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0033,Pizzaria Massa Leve,Sem graduação,Delivery de pizzas artesanais,Atendente de balcão
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0034,Obras Rápidas,Sem graduação,Reformas e manutenção rápida,Auxiliar de obras
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0035,Hiper Center Popular,Sem graduação,Loja de variedades e utilidades,Repositor
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0036,Corre Entregas,Sem graduação,Serviços de entregas urbanas,Entregador de bicicleta
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0037,Lava & Brilha,Sem graduação,Lava rápido ecológico,Auxiliar de serviços
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0038,ReparaTudo SP,Sem graduação,Pequenos consertos residenciais,Assistente de manutenção
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0039,Eventos Elite,Sem graduação,Organização de eventos sociais,Auxiliar de montagem
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0040,Padaria Central,Sem graduação,Padaria tradicional com lanches,Auxiliar de cozinha
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0041,Ateliê de Arquitetura Prisma,Arquitetura e Urbanismo & Design,Projetos residenciais e reformas,Estagiário em arquitetura
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0042,AgroPlan Soluções,Ciências Agrárias & Meio Ambiente,Planejamento agrícola sustentável,Técnico agrícola
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0043,Saúde Viva Centro Médico,Ciências Biológicas e da Saúde,Atendimento integrado em saúde,Recepcionista clínica
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0044,Foco Educacional,Ciências Humanas,Reforço escolar e oficinas culturais,Instrutor de reforço
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0045,Advocacia Silva & Prado,Ciências Jurídicas,Assessoria jurídica civil e trabalhista,Assistente jurídico
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0046,Clínica Bem Cuidar,Ciências Médicas,Consultas médicas e exames laboratoriais,Atendente de laboratório
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0047,Agência Lumina,Comunicação & Artes,Criação publicitária e campanhas sociais,Designer júnior
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0048,Torres Engenharia,Engenharias,Consultoria em engenharia elétrica,Auxiliar técnico
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0049,Eficaz Consultoria,Gestão & Negócios,Consultoria em processos e produtividade,Auxiliar de consultoria
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0050,ByteLab Sistemas,TI & Computação,Desenvolvimento de apps e APIs,Analista de testes júnior
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0051,Hostel Liberdade,Turismo & Hospitalidade,Hostel urbano para jovens viajantes,Auxiliar de serviços gerais
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0052,Dogão Express,Sem graduação,Food truck especializado em hot dogs,Atendente de food truck
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0053,Obra Fácil,Sem graduação,Serviços de pedreiro e reforma rápida,Servente
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0054,Loja Mega Variedades,Sem graduação,Comércio varejista de utilidades domésticas,Repositor de loja
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0055,Entregou Rápido,Sem graduação,Entrega de encomendas leves,Entregador autônomo
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0056,Lava Car Limpo Já,Sem graduação,Lava rápido com sistema a seco,Auxiliar de lavagem
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0057,MultiFix Manutenções,Sem graduação,Manutenção predial e consertos,Auxiliar de eletricista
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0058,Eventos Mania,Sem graduação,Organização de festas infantis,Montador de brinquedos
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0059,Café com Amor,Sem graduação,Café aconchegante com produtos artesanais,Garçom
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0060,Brilho & Limpeza,Sem graduação,Limpeza de condomínios e escritórios,Auxiliar de serviços
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0061,Lanchonete Sabor Brasil,Sem graduação,Fast food e lanches rápidos,Atendente de lanchonete
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0062,ConstruMais,Sem graduação,Construção civil e reformas,Servente de obra
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0063,Supermercado Fácil,Sem graduação,Supermercado de bairro,Repositor de mercadorias
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0064,Expresso Rápido,Sem graduação,Serviços de entrega e motoboy,Motoboy
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0065,AutoWash,Sem graduação,Lavagem automotiva rápida,Lavador de carros
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0066,Serviço Total,Sem graduação,Serviços gerais de manutenção,Ajudante geral
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0067,Festa Fácil,Sem graduação,Produção de eventos e festas,Montador de estruturas
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0068,Boliche 24h,Sem graduação,Lazer e entretenimento,Atendente de pista
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0069,Cantinho da Esquina,Sem graduação,Café e padaria local,Garçom / garçonete
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0070,Limpeza Pro,Sem graduação,Serviços terceirizados de limpeza,Auxiliar de limpeza
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0071,Transporte Urbano,Sem graduação,Transporte de cargas leves,Motorista de van
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0072,PetShop Amigo,Sem graduação,Serviços para animais de estimação,Auxiliar de pet shop
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0073,Oficina Mecânica Rápida,Sem graduação,Manutenção de veículos leves,Mecânico auxiliar
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0074,Bazar Popular,Sem graduação,Vendas de roupas e utilidades,Atendente de loja
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0075,Jardim & Cia,Sem graduação,Serviços de jardinagem e paisagismo,Ajudante de jardinagem
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0076,Distribuidora Alvo,Sem graduação,Distribuição de produtos alimentícios,Conferente de estoque
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0077,Clean Express,Sem graduação,Lavagem a seco de estofados e carpetes,Auxiliar de limpeza
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0078,Bom Sabor,Sem graduação,Restaurante popular,Auxiliar de cozinha
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0079,Express Entregas,Sem graduação,Entrega rápida de encomendas,Entregador
+d6b5a1d0-0f8c-43d6-89aa-9b982a2e0080,Montagem e Cia,Sem graduação,Montagem e manutenção de móveis,Ajudante de montagem
