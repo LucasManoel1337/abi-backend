@@ -249,3 +249,93 @@ f2a6c97d-7a5e-4b7d-81f7-91a9f63c8d4b,Hospital Santa Casa de Misericórdia,Ciênc
 e7d1c3f9-5b6e-44e7-b7f4-d3b97e62b9d0,Banco do Brasil,Gestão & Negócios,Banco público,Analista financeiro,Rio de Janeiro,Rio de Janeiro
 06b3c4a7-8d2f-40e5-bb7c-5a9f1d3e8b7c,Hospital Sírio-Libanês,Ciências Médicas,Hospital privado,Enfermeiro,São Paulo,São Paulo
 8a1f2d7c-3e5a-4b28-8dbe-98f7a6e4b5d2,Grupo Algar,Gestão & Negócios,Empresa de telecomunicações,Analista comercial,Minas Gerais,Uberlândia
+d1f2a3b4-5678-4c9e-9123-abcdef123456,Supermercado Bom Preço,Sem graduação,Rede de supermercados regional,Operador de caixa,São Paulo,São Paulo
+e2b3c4d5-6789-4d0f-8234-bcdefa234567,Transporte Rápido Ltda,Sem graduação,Empresa de transporte de cargas e encomendas,Motorista de entrega,Rio de Janeiro,Rio de Janeiro
+f3c4d5e6-7890-4e1a-9345-cdefab345678,Construtora Forte Pedra,Sem graduação,Construtora focada em obras residenciais,Ajudante de obras,Minas Gerais,Belo Horizonte
+a4d5e6f7-8901-4f2b-a456-defabc456789,Restaurante Sabor Caseiro,Sem graduação,Restaurante tradicional da região,Auxiliar de cozinha,Rio Grande do Sul,Porto Alegre
+b5e6f7a8-9012-4g3c-b567-efabcd567890,Limpeza Total,Sem graduação,Empresa de serviços de limpeza e conservação,Auxiliar de limpeza,Paraná,Curitiba
+c6f7a8b9-0123-4h4d-c678-fabcde678901,Serviços Gerais Brasil,Sem graduação,Prestadora de serviços gerais diversos,Recepcionista,Santa Catarina,Florianópolis
+d7a8b9c0-1234-4i5e-d789-abcdef789012,Loja de Conveniência Central,Sem graduação,Loja de conveniência em posto de combustível,Atendente,Rio de Janeiro,Niterói
+e8b9c0d1-2345-4j6f-e890-bcdefa890123,Oficina Mecânica São José,Sem graduação,Oficina mecânica especializada em manutenção leve,Mecânico assistente,São Paulo,São Paulo
+f9c0d1e2-3456-4k7g-f901-cdefab901234,Agropecuária Verde Campo,Sem graduação,Empresa de agropecuária e criação de animais,Trabalhador rural,Mato Grosso,Cuiabá
+a0d1e2f3-4567-4l8h-0a12-defabc012345,Empresa de Segurança Alfa,Sem graduação,Serviço de segurança patrimonial,Segurança patrimonial,Paraná,Londrina
+f1a2b3c4-7890-4d1e-9234-xyz123abc456,Construtora Nova Terra,Sem graduação,Construtora atuante em obras comerciais,Auxiliar de pedreiro,Rio de Janeiro,Nova Iguaçu
+a2b3c4d5-8901-4e2f-0345-abc456def789,Mercado Central,Sem graduação,Supermercado com atuação local,Repositor de mercadorias,São Paulo,Guarulhos
+b3c4d5e6-9012-4f3g-1456-def789abc012,Transportadora Expresso Sul,Sem graduação,Transportadora especializada em cargas expressas,Assistente de logística,Rio Grande do Sul,Porto Alegre
+c4d5e6f7-0123-4g4h-2567-fab012def345,Serviços Gerais Alpha,Sem graduação,Empresa de limpeza comercial,Servente de limpeza,Minas Gerais,Uberlândia
+d5e6f7a8-1234-4h5i-3678-cde345fab678,Restaurante Delícia Caseira,Sem graduação,Restaurante familiar,Garçom,Paraná,Cascavel
+e6f7a8b9-2345-4i6j-4789-efb678cde901,Loja Popular,Sem graduação,Loja de varejo popular,Atendente de loja,Santa Catarina,Joinville
+f7a8b9c0-3456-4j7k-5890-fcd901efb234,Empresa de Jardinagem Verde Vida,Sem graduação,Serviços de jardinagem e paisagismo,Auxiliar de jardinagem,São Paulo,Campinas
+a8b9c0d1-4567-4k8l-6901-abcdef123567,Oficina Mecânica Rápida,Sem graduação,Oficina mecânica para manutenção rápida,Ajudante de mecânico,Rio de Janeiro,Duque de Caxias
+b9c0d1e2-5678-4l9m-7012-bcdefa234678,Supermercado Varejão,Sem graduação,Supermercado regional,Estoquista,Rio Grande do Norte,Natal
+c0d1e2f3-6789-4m0n-8123-cdefab345789,Serviços de Entrega Ágil,Sem graduação,Empresa de entregas rápidas,Motoboy,São Paulo,São Bernardo do Campo
+d9e8f7a6-1234-4n1o-9234-def123abc789,Serviços Gerais Rápidos,Sem graduação,Empresa especializada em limpeza residencial e comercial,Auxiliar de serviços gerais,Rio de Janeiro,Belford Roxo
+e0f9a8b7-2345-4o2p-0345-abc456def890,Restaurante Maré Alta,Sem graduação,Restaurante à beira-mar,Auxiliar de cozinha,Rio Grande do Sul,Tramandaí
+f1a0b9c8-3456-4p3q-1456-def789abc123,Loja Express,Sem graduação,Loja de conveniência em postos de gasolina,Operador de caixa,São Paulo,Santos
+a2b1c0d9-4567-4q4r-2567-fab012def456,Construtora Horizonte,Sem graduação,Construtora de edifícios residenciais,Servente de obras,Minas Gerais,Contagem
+b3c2d1e0-5678-4r5s-3678-cde345fab789,Transportes Rodo Sul,Sem graduação,Empresa de transporte rodoviário,Motorista carreteiro,Paraná,Foz do Iguaçu
+c4d3e2f1-6789-4s6t-4789-efb678cde012,Supermercado São João,Sem graduação,Supermercado local,Repositor de mercadorias,Santa Catarina,Blumenau
+d5e4f3a2-7890-4t7u-5890-fcd901efb345,Oficina Auto Center,Sem graduação,Oficina mecânica especializada em veículos leves,Ajudante de oficina,Rio de Janeiro,Nova Friburgo
+e6f5a4b3-8901-4u8v-6901-abcdef123678,Empresa de Segurança Alpha,Sem graduação,Serviços de segurança privada,Segurança patrimonial,Rio Grande do Norte,Mossoró
+f7a6b5c4-9012-4v9w-7012-bcdefa234789,Padaria e Confeitaria Pão Quente,Sem graduação,Padaria artesanal,Atendente de balcão,São Paulo,Guarulhos
+a8b7c6d5-0123-4w0x-8123-cdefab345890,Limpeza Express,Sem graduação,Empresa de limpeza e conservação,Auxiliar de limpeza,Paraná,Curitiba
+b1c2d3e4-1357-4x1y-9234-def456abc123,Supermercado Nova Estação,Sem graduação,Supermercado local com foco em atendimento rápido,Operador de caixa,Maranhão,São Luís
+c2d3e4f5-2468-4y2z-0345-abc789def456,Restaurante Bom Sabor,Sem graduação,Restaurante popular,Garçom,Bahia,Salvador
+d3e4f5a6-3579-4z3a-1456-def012abc789,Transportadora Ágil Brasil,Sem graduação,Empresa de transporte de cargas,Auxiliar de carga,São Paulo,Osasco
+e4f5a6b7-4680-4a4b-2567-fab345def012,Loja Popular Center,Sem graduação,Loja de varejo popular,Atendente de loja,Rio de Janeiro,Nova Iguaçu
+f5a6b7c8-5791-4b5c-3678-cde678fab345,Construtora Vida Nova,Sem graduação,Construtora focada em reformas,Servente de obras,Minas Gerais,Betim
+a6b7c8d9-6802-4c6d-4789-efb901cde678,Empresa de Jardinagem Florescer,Sem graduação,Serviços de jardinagem,Auxiliar de jardinagem,Paraná,Ponta Grossa
+b7c8d9e0-7913-4d7e-5890-fcd234efb901,Oficina Mecânica Rápida,Sem graduação,Oficina especializada em motos,Ajudante de mecânico,Rio Grande do Sul,Caxias do Sul
+c8d9e0f1-8024-4e8f-6901-abcdef345234,Padaria Pão do Povo,Sem graduação,Padaria tradicional,Auxiliar de padaria,São Paulo,Guarulhos
+d9e0f1a2-9135-4f9g-7012-bcdefa456345,Serviços Gerais Brasil,Sem graduação,Serviços gerais diversos,Auxiliar de serviços gerais,Rio de Janeiro,São Gonçalo
+e0f1a2b3-0246-4g0h-8123-cdefab567456,Limpeza Total,Sem graduação,Empresa de limpeza e conservação,Auxiliar de limpeza,Santa Catarina,Joinville
+f1e2d3c4-1357-4h1i-9234-def789abc456,Supermercado Econômico,Sem graduação,Supermercado regional com foco em preço baixo,Operador de caixa,Pernambuco,Recife
+a2b3c4d5-2468-4i2j-0345-abc012def789,Restaurante Ponto Certo,Sem graduação,Restaurante self-service,Auxiliar de cozinha,Ceará,Fortaleza
+b3c4d5e6-3579-4j3k-1456-def345abc012,Transportadora NorteSul,Sem graduação,Transportadora de cargas expressas,Motorista de entrega,Rio Grande do Norte,Natal
+c4d5e6f7-4680-4k4l-2567-fab678def345,Loja Varejão Popular,Sem graduação,Loja de varejo popular,Atendente de loja,Mato Grosso,Cuiabá
+d5e6f7a8-5791-4l5m-3678-cde901fab678,Construtora Brilho do Sol,Sem graduação,Construtora de obras residenciais,Ajudante de obras,Paraíba,João Pessoa
+e6f7a8b9-6802-4m6n-4789-efb234cde901,Empresa de Jardinagem Verdejante,Sem graduação,Serviços de jardinagem e manutenção,Auxiliar de jardinagem,Rio Grande do Sul,Porto Alegre
+f7a8b9c0-7913-4n7o-5890-fcd567efb234,Oficina Mecânica Auto+,Sem graduação,Oficina mecânica geral,Servente de oficina,São Paulo,São Carlos
+a8b9c0d1-8024-4o8p-6901-abcdef678345,Padaria Trigal,Sem graduação,Padaria e confeitaria local,Auxiliar de padaria,Minas Gerais,Juiz de Fora
+b9c0d1e2-9135-4p9q-7012-bcdefa789456,Serviços Gerais Ágil,Sem graduação,Empresa de serviços gerais,Auxiliar de serviços gerais,Rio de Janeiro,Mage
+c0d1e2f3-0246-4q0r-8123-cdefab890567,Limpeza Expressa,Sem graduação,Serviços de limpeza comercial e residencial,Auxiliar de limpeza,Paraná,Curitiba
+d1e2f3a4-1357-4r1s-9234-def012abc345,Supermercado Bom Preço,Sem graduação,Supermercado com foco em variedade e preço baixo,Operador de caixa,Maranhão,Caxias
+e2f3a4b5-2468-4s2t-0345-abc345def678,Restaurante Sabor da Terra,Sem graduação,Restaurante regional,Garçom,Bahia,Feira de Santana
+f3a4b5c6-3579-4t3u-1456-def678abc901,Transportadora Rápida,Sem graduação,Transportadora especializada em entregas urbanas,Auxiliar de carga,São Paulo,Barueri
+a4b5c6d7-4680-4u4v-2567-fab901def234,Loja Popular Fácil,Sem graduação,Loja de varejo popular,Atendente de loja,Rio de Janeiro,Duque de Caxias
+b5c6d7e8-5791-4v5w-3678-cde234fab567,Construtora Nova Era,Sem graduação,Construtora focada em reformas residenciais,Servente de obras,Minas Gerais,Contagem
+c6d7e8f9-6802-4w6x-4789-efb567cde890,Empresa de Jardinagem Verde Vida,Sem graduação,Serviços de jardinagem e paisagismo,Auxiliar de jardinagem,Paraná,Londrina
+d7e8f9a0-7913-4x7y-5890-fcd890efb123,Oficina Mecânica Rápida,Sem graduação,Oficina especializada em veículos leves,Ajudante de mecânico,Rio Grande do Sul,Caxias do Sul
+e8f9a0b1-8024-4y8z-6901-abcdef123456,Padaria Pão Quente,Sem graduação,Padaria artesanal,Auxiliar de padaria,São Paulo,Campinas
+f9a0b1c2-9135-4z9a-7012-bcdef456789,Serviços Gerais Brasil,Sem graduação,Serviços gerais diversos,Auxiliar de serviços gerais,Rio de Janeiro,Niterói
+a0b1c2d3-0246-4a0b-8123-cdef78901234,Limpeza Express,Sem graduação,Empresa de limpeza e conservação,Auxiliar de limpeza,Santa Catarina,Florianópolis
+e1f2a3b4-1357-4b1c-9234-def345abc678,Distribuidora Sol Nascente,Sem graduação,Distribuidora de bebidas e alimentos,Estoquista,Rio Grande do Sul,Porto Alegre
+f2a3b4c5-2468-4c2d-0345-abc678def901,Restaurante Caseiro,Sem graduação,Restaurante com culinária regional,Auxiliar de cozinha,Maranhão,São Luís
+a3b4c5d6-3579-4d3e-1456-def901abc234,Transportadora Ágil,Sem graduação,Empresa de transporte de cargas,Motorista entregador,São Paulo,Guarulhos
+b4c5d6e7-4680-4e4f-2567-fab234def567,Loja Popular Mega,Sem graduação,Loja de varejo popular,Atendente de loja,Rio de Janeiro,Belford Roxo
+c5d6e7f8-5791-4f5g-3678-cde567fab890,Construtora Horizonte,Sem graduação,Construtora focada em obras residenciais,Servente de obras,Minas Gerais,Belo Horizonte
+d6e7f8a9-6802-4g6h-4789-efb890cde123,Empresa Verde Jardim,Sem graduação,Serviços de jardinagem e manutenção,Auxiliar de jardinagem,Paraná,Maringá
+e7f8a9b0-7913-4h7i-5890-fcd123efb456,Oficina Rápida Auto,Sem graduação,Oficina mecânica geral,Ajudante de oficina,Rio Grande do Sul,Caxias do Sul
+f8a9b0c1-8024-4i8j-6901-abcdef456789,Padaria Trigo Doce,Sem graduação,Padaria e confeitaria,Auxiliar de padaria,São Paulo,Santo André
+a9b0c1d2-9135-4j9k-7012-bcdef789012,Serviços Gerais Ágil,Sem graduação,Serviços gerais diversos,Auxiliar de serviços gerais,Rio de Janeiro,Nova Iguaçu
+b0c1d2e3-0246-4k0l-8123-cdef01234567,Limpeza Total,Sem graduação,Empresa de limpeza e conservação,Auxiliar de limpeza,Santa Catarina,Joinville
+f9b8a7c6-1357-4l1m-9234-def456abc789,Mercearia Boa Compra,Sem graduação,Mercearia local com variedade de produtos,Atendente de mercearia,Mato Grosso,Cuiabá
+e8d7c6b5-2468-4m2n-0345-abc789def012,Lanchonete Sabor & Cia,Sem graduação,Lanchonete com atendimento rápido,Atendente de lanchonete,Pernambuco,Recife
+d7c6b5a4-3579-4n3o-1456-def012abc345,Transportadora Expresso Rápido,Sem graduação,Transportadora de cargas expressas,Auxiliar de logística,Rio Grande do Norte,Mossoró
+c6b5a493-4680-4o4p-2567-fab345def678,Loja Popular Atacado,Sem graduação,Loja de varejo popular,Repositor de mercadorias,Paraná,Curitiba
+b5a49382-5791-4p5q-3678-cde678fab901,Construtora Terra Firme,Sem graduação,Construtora focada em obras públicas,Servente de obras,Minas Gerais,Uberlândia
+a4938271-6802-4q6r-4789-efb901cde234,Empresa Verde Limpeza,Sem graduação,Serviços de limpeza residencial e comercial,Auxiliar de limpeza,Rio de Janeiro,Rio de Janeiro
+94837261-7913-4r7s-5890-fcd234efb567,Oficina Mecânica Alfa,Sem graduação,Oficina especializada em veículos pesados,Ajudante de mecânico,São Paulo,Santos
+83726150-8024-4s8t-6901-abcdef345678,Padaria Pão & Cia,Sem graduação,Padaria tradicional e confeitaria,Auxiliar de padaria,Rio Grande do Sul,Porto Alegre
+72615049-9135-4t9u-7012-bcdefa456789,Serviços Gerais Rápidos,Sem graduação,Serviços gerais diversos,Auxiliar de serviços gerais,Santa Catarina,Blumenau
+61504938-0246-4u0v-8123-cdefab567890,Limpeza Expressa,Sem graduação,Empresa de limpeza e conservação,Auxiliar de limpeza,Paraná,Ponta Grossa
+a1b2c3d4-1357-4v1w-9234-def678abc901,Supermercado Boa Sorte,Sem graduação,Supermercado local com variedade de produtos,Operador de caixa,Rio de Janeiro,Rio de Janeiro
+b2c3d4e5-2468-4w2x-0345-abc901def234,Lanchonete Ponto do Sabor,Sem graduação,Lanchonete especializada em fast food,Atendente de lanchonete,São Paulo,São Paulo
+c3d4e5f6-3579-4x3y-1456-def234abc567,Transportadora Expressa,Sem graduação,Empresa de transporte de cargas urbanas,Motorista entregador,Mato Grosso,Cuiabá
+d4e5f6a7-4680-4y4z-2567-fab567def890,Loja Popular Econômica,Sem graduação,Loja de varejo popular,Atendente de loja,Minas Gerais,Belo Horizonte
+e5f6a7b8-5791-4z5a-3678-cde890fab123,Construtora Sol Nascente,Sem graduação,Construtora especializada em reformas,Servente de obras,Pernambuco,Recife
+f6a7b8c9-6802-4a6b-4789-efb123cde456,Empresa Verde Limpeza,Sem graduação,Serviços de limpeza comercial e residencial,Auxiliar de limpeza,Paraná,Curitiba
+a7b8c9d0-7913-4b7c-5890-fcd456efb789,Oficina Mecânica Rápida,Sem graduação,Oficina mecânica geral,Ajudante de oficina,Rio Grande do Sul,Porto Alegre
+b8c9d0e1-8024-4c8d-6901-abcdef789012,Padaria Doce Trigo,Sem graduação,Padaria e confeitaria,Auxiliar de padaria,São Paulo,Santo André
+c9d0e1f2-9135-4d9e-7012-bcdef012345,Serviços Gerais Ágil,Sem graduação,Serviços gerais diversos,Auxiliar de serviços gerais,Rio de Janeiro,Niterói
+d0e1f2a3-0246-4e0f-8123-cdef34567890,Limpeza Total,Sem graduação,Empresa de limpeza e conservação,Auxiliar de limpeza,Santa Catarina,Florianópolis
