@@ -13,4 +13,12 @@
                 encoding="UTF-8"/>
     </changeSet>
 
+    <changeSet id="183122052025" author="lucas">
+        <loadData
+                file="config/liquibase/carga/CargaBolsasDto.csv"
+                separator=","
+                tableName="bolsas_dto"
+                encoding="UTF-8"/>
+    </changeSet>
+
 </databaseChangeLog>

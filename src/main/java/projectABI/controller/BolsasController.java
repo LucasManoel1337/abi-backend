@@ -31,7 +31,11 @@ public class BolsasController {
     }
 
     @GetMapping("/listar-bolsas/filtro")
-    public List<BolsasDto> listarBolsasFillro(@RequestParam("qnt") int qnt, @RequestParam("pagina") int pagina, @RequestParam("filtro") String filtro){
-        return service.listarBolsasFiltro(qnt, pagina, filtro);
+    public List<BolsasDto> listarBolsasFillro(@RequestParam("qnt") int qnt,
+                                              @RequestParam("pagina") int pagina,
+                                              @RequestParam(value = "categoria", required = false) String categoria,
+                                              @RequestParam(value = "estado", required = false) String estado,
+                                              @RequestParam(value = "modeloDeCurso", required = false) String modeloDeCurso) {
+        return service.listarBolsasFiltro(qnt, pagina, categoria, estado, modeloDeCurso);
     }
 }

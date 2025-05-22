@@ -1,0 +1,301 @@
+id,nome_insituicao,categoria,curso,valor_da_bolsa,modelo_de_curso,data_inicio,data_fim,estado,municipio
+e17dde7d-cbaf-4f10-9179-b28a74b02f18,Universidade Boa Vista,Gestão & Negócios,Marketing,25% gratuita,Hibrido,2025-08-17,2029-08-16,Roraima,Boa Vista
+958bb4fe-4481-4c24-ac67-0e2657e9b3cc,Universidade Caxias do Sul,TI & Computação,Sistemas de Informação,25% gratuita,Hibrido,2025-07-11,2027-07-11,Rio Grande do Sul,Caxias do Sul
+73eb904d-07ce-4e64-86db-528d6d1a8845,Universidade Parnaíba,Ciências Jurídicas,Ciências Políticas,25% gratuita,Presencial,2025-07-11,2028-07-10,Piauí,Parnaíba
+018a95be-5af5-4e19-a82f-4cb21c2e1a01,Universidade Imperatriz,TI & Computação,Sistemas de Informação,50% gratuita,EAD,2025-06-10,2028-06-09,Maranhão,Imperatriz
+4caf3a81-657f-46ce-a532-d94d9e6f1e8a,Universidade São Paulo,Ciências Humanas,Sociologia,75% gratuita,EAD,2025-08-19,2029-08-18,São Paulo,São Paulo
+aa203395-bf23-4ee8-bef3-95b837d4b8d8,Universidade Parintins,Sem graduação,Português para Estrangeiros,50% gratuita,Hibrido,2025-08-17,2029-08-16,Amazonas,Parintins
+1061ec5d-d3c6-4327-bcfc-ad447baabb14,Universidade Caruaru,Turismo & Hospitalidade,Eventos,75% gratuita,Hibrido,2025-06-09,2028-06-08,Pernambuco,Caruaru
+a3b6721d-13aa-4d9d-9903-dc0ed2811365,Universidade Campo Grande,Gestão & Negócios,Administração,50% gratuita,Hibrido,2025-07-11,2026-07-11,Mato Grosso do Sul,Campo Grande
+6f1e76e1-5015-4fb2-8c3c-0b53c984742a,Universidade Rio Branco,Ciências Humanas,Filosofia,50% gratuita,Hibrido,2025-07-09,2027-07-09,Acre,Rio Branco
+ec0b5475-7401-49d5-b22e-dda0a1290160,Universidade Campinas,Arquitetura e Urbanismo & Design,Arquitetura,50% gratuita,EAD,2025-06-17,2026-06-17,São Paulo,Campinas
+6973d3a6-f9a0-4adf-8913-7be12566f13a,Universidade Brasília,TI & Computação,Ciência da Computação,75% gratuita,Hibrido,2025-07-29,2028-07-28,Distrito Federal,Brasília
+9f2e3cca-3efe-4e20-b036-e56bf691f59f,Universidade Campo Grande,Ciências Jurídicas,Direito,25% gratuita,Presencial,2025-07-11,2026-07-11,Mato Grosso do Sul,Campo Grande
+963a8d13-23c6-4306-975b-057b3859e7c1,Universidade Boa Vista,Comunicação & Artes,Rádio e TV,75% gratuita,Hibrido,2025-07-01,2028-06-30,Roraima,Boa Vista
+ec4ecfdb-3eac-442f-873a-b939a1405722,Universidade Porto Alegre,Turismo & Hospitalidade,Hotelaria,50% gratuita,Hibrido,2025-06-13,2026-06-13,Rio Grande do Sul,Porto Alegre
+2aeb7295-6c84-4228-8229-0b4e69122a58,Universidade Imperatriz,Ciências Humanas,Filosofia,75% gratuita,EAD,2025-06-23,2027-06-23,Maranhão,Imperatriz
+a92195af-f6bb-47cb-97d2-fe0f19a9b0c7,Universidade Santana,Ciências Médicas,Enfermagem,100% gratuita,EAD,2025-07-29,2028-07-28,Amapá,Santana
+66d3a686-acaa-4f62-93a0-786b2ae83c5a,Universidade Florianópolis,Engenharias,Engenharia Mecânica,75% gratuita,EAD,2025-08-15,2028-08-14,Santa Catarina,Florianópolis
+87465cca-c5af-467e-a243-a4a5ad6645ae,Universidade Campina Grande,Sem graduação,Edição de Vídeo,100% gratuita,EAD,2025-07-24,2029-07-23,Paraíba,Campina Grande
+4c0da795-0d9f-4534-bded-46d55286ae78,Universidade Palmas,Ciências Biológicas e da Saúde,Biomedicina,25% gratuita,Presencial,2025-07-19,2026-07-19,Tocantins,Palmas
+def94c33-d4fe-4b11-a8b9-e9d3dd55f40a,Universidade Rio Branco,Ciências Agrárias & Meio Ambiente,Gestão Ambiental,50% gratuita,Hibrido,2025-07-09,2026-07-09,Acre,Rio Branco
+c0be93fd-2b16-4207-8bae-ad95ef22630d,Universidade Florianópolis,Sem graduação,Pacote Office,25% gratuita,Presencial,2025-06-13,2028-06-12,Santa Catarina,Florianópolis
+3c4faf21-4841-4aa1-8ebd-dcd31df2f72b,Universidade São Luís,TI & Computação,Sistemas de Informação,50% gratuita,Presencial,2025-06-20,2028-06-19,Maranhão,São Luís
+b528facf-f8ca-4b29-a129-453ba6c35d4b,Universidade Teresina,Arquitetura e Urbanismo & Design,Design de Interiores,100% gratuita,Presencial,2025-08-10,2028-08-09,Piauí,Teresina
+449ddf38-1ee1-4811-881a-177b12c437cc,Universidade Rio Branco,Sem graduação,Pacote Office,50% gratuita,Presencial,2025-08-17,2027-08-17,Acre,Rio Branco
+b8f09e54-6876-4c88-8fee-c89f67dc2332,Universidade Anápolis,Engenharias,Engenharia Mecânica,100% gratuita,EAD,2025-07-19,2028-07-18,Goiás,Anápolis
+42968d8b-8b24-4ef9-af75-24512ebc80e7,Universidade Arapiraca,Ciências Médicas,Fisioterapia,50% gratuita,EAD,2025-08-12,2029-08-11,Alagoas,Arapiraca
+ed1a29b9-f484-4494-a428-b9083551ff93,Universidade Rio Branco,Ciências Humanas,Filosofia,50% gratuita,EAD,2025-06-24,2026-06-24,Acre,Rio Branco
+07d22d43-fcd4-4558-9e61-612f0c6564ff,Universidade Curitiba,Engenharias,Engenharia Mecânica,50% gratuita,EAD,2025-07-29,2028-07-28,Paraná,Curitiba
+a5904981-ca93-458f-9f56-74273c7139ef,Universidade Santana,Gestão & Negócios,Administração,75% gratuita,Presencial,2025-07-19,2026-07-19,Amapá,Santana
+26cd5d28-862d-4b09-b659-d3bdcb255e8d,Universidade Teresina,Ciências Médicas,Medicina,50% gratuita,EAD,2025-06-30,2027-06-30,Piauí,Teresina
+c10b87a5-a52c-462c-bdb4-a60b978a5df2,Universidade Salvador,Arquitetura e Urbanismo & Design,Design de Interiores,25% gratuita,EAD,2025-06-06,2026-06-06,Bahia,Salvador
+330563af-6c01-47ce-9fb1-458d9e3e5049,Universidade Belo Horizonte,Engenharias,Engenharia Elétrica,50% gratuita,EAD,2025-08-18,2028-08-17,Minas Gerais,Belo Horizonte
+0dd0f736-83ed-4f8c-9945-7c51a987a007,Universidade Imperatriz,TI & Computação,Ciência da Computação,50% gratuita,Hibrido,2025-08-09,2028-08-08,Maranhão,Imperatriz
+585222f4-e2e0-4263-ab89-80f8e2c8fb1f,Universidade Vitória,Engenharias,Engenharia Mecânica,100% gratuita,Hibrido,2025-06-20,2028-06-19,Espírito Santo,Vitória
+e376fa1a-7afe-4981-96d1-8ee4eb38c02b,Universidade Brasília,Comunicação & Artes,Rádio e TV,100% gratuita,Hibrido,2025-07-27,2026-07-27,Distrito Federal,Brasília
+6be25446-1a19-4337-9d47-372ffed4f557,Universidade Caxias do Sul,Sem graduação,Português para Estrangeiros,75% gratuita,Presencial,2025-07-24,2026-07-24,Rio Grande do Sul,Caxias do Sul
+6ad9c8b2-4f09-4183-8b3d-726a5717d191,Universidade Caruaru,Ciências Médicas,Enfermagem,75% gratuita,Presencial,2025-06-16,2027-06-16,Pernambuco,Caruaru
+d337f64d-1ac0-468a-b55e-e77086ab1d26,Universidade Boa Vista,Turismo & Hospitalidade,Hotelaria,25% gratuita,EAD,2025-07-06,2028-07-05,Roraima,Boa Vista
+7f8bfcfd-db22-4ef9-b714-4caef4587208,Universidade Campina Grande,Ciências Agrárias & Meio Ambiente,Engenharia Agrônoma,75% gratuita,Hibrido,2025-08-02,2029-08-01,Paraíba,Campina Grande
+627b35ef-d2a5-40e7-ac5b-1b7d5f1ed93c,Universidade Londrina,Ciências Médicas,Fisioterapia,100% gratuita,Hibrido,2025-06-30,2026-06-30,Paraná,Londrina
+6a8e89ab-0b4b-423b-a7ea-1c8d5ae3c34d,Universidade Salvador,Arquitetura e Urbanismo & Design,Design Gráfico,75% gratuita,Presencial,2025-06-15,2029-06-14,Bahia,Salvador
+ba2a4437-48a0-4215-a37a-e570347f1cd1,Universidade Parnaíba,Ciências Médicas,Fisioterapia,100% gratuita,Hibrido,2025-08-08,2026-08-08,Piauí,Parnaíba
+a335357e-c12b-491e-afbd-e1d21f44d57e,Universidade Goiânia,Ciências Biológicas e da Saúde,Educação Física,25% gratuita,Presencial,2025-06-01,2026-06-01,Goiás,Goiânia
+1e2b8a9f-5ee2-4aae-9419-333e64467a3b,Universidade São Luís,Ciências Biológicas e da Saúde,Educação Física,75% gratuita,Presencial,2025-06-23,2026-06-23,Maranhão,São Luís
+97b1470d-bff8-4b63-8a49-0ede45944bdb,Universidade Aracaju,TI & Computação,Ciência da Computação,75% gratuita,EAD,2025-07-18,2026-07-18,Sergipe,Aracaju
+265dc41b-5153-4f39-bc6c-8ffbd94fe129,Universidade João Pessoa,Sem graduação,Português para Estrangeiros,50% gratuita,Hibrido,2025-07-23,2027-07-23,Paraíba,João Pessoa
+d76e1944-7d6b-4d79-8776-8c1f0242126c,Universidade Santana,Ciências Médicas,Enfermagem,75% gratuita,Presencial,2025-08-01,2026-08-01,Amapá,Santana
+ba03538b-ee64-41cf-b044-62f3fbe512ce,Universidade Salvador,Comunicação & Artes,Publicidade,25% gratuita,Presencial,2025-07-12,2028-07-11,Bahia,Salvador
+7923ba36-eb81-45e7-9fcf-ec29e6cc1447,Universidade Fortaleza,Sem graduação,Edição de Vídeo,100% gratuita,EAD,2025-07-22,2029-07-21,Ceará,Fortaleza
+31906d22-ddee-4418-abc2-05b6cea3d970,Universidade Boa Vista,TI & Computação,Ciência da Computação,75% gratuita,Presencial,2025-06-15,2026-06-15,Roraima,Boa Vista
+dcdc0873-74ff-4906-b0dd-222440b5371c,Universidade Natal,Gestão & Negócios,Marketing,75% gratuita,Hibrido,2025-08-18,2026-08-18,Rio Grande do Norte,Natal
+e6521753-6b2b-4fe5-bc6d-8f6de550cfd9,Universidade Parnaíba,Arquitetura e Urbanismo & Design,Design Gráfico,50% gratuita,Presencial,2025-06-04,2027-06-04,Piauí,Parnaíba
+fb248704-b433-4160-8c42-7fae20cf867d,Universidade Salvador,TI & Computação,Análise e Desenvolvimento de Sistemas,50% gratuita,Hibrido,2025-06-02,2029-06-01,Bahia,Salvador
+93074012-2a16-469e-9108-390b87e0d237,Universidade Parintins,Engenharias,Engenharia Mecânica,50% gratuita,Hibrido,2025-06-21,2027-06-21,Amazonas,Parintins
+7ffe0be2-d068-40e9-9343-4d9daf756414,Universidade Campina Grande,Ciências Humanas,Sociologia,100% gratuita,EAD,2025-07-06,2028-07-05,Paraíba,Campina Grande
+c34ca9aa-dfcb-40a5-b7e1-41b78a76e2f9,Universidade Vitória,Comunicação & Artes,Rádio e TV,75% gratuita,Presencial,2025-06-10,2026-06-10,Espírito Santo,Vitória
+dd073e37-36fe-41a9-8c83-d78635300cb2,Universidade Aracaju,Ciências Médicas,Enfermagem,100% gratuita,Presencial,2025-07-17,2026-07-17,Sergipe,Aracaju
+35ce5352-2855-4007-b130-4d881cb497d4,Universidade Niterói,Arquitetura e Urbanismo & Design,Design de Interiores,50% gratuita,Presencial,2025-07-13,2029-07-12,Rio de Janeiro,Niterói
+a5b4d535-b4c7-4cf8-8715-ef5c46d2cfe2,Universidade Boa Vista,Ciências Agrárias & Meio Ambiente,Engenharia Agrônoma,50% gratuita,Hibrido,2025-07-01,2029-06-30,Roraima,Boa Vista
+fd44ed94-72fd-4096-ba5f-fe6cd92c8b22,Universidade Rondonópolis,Turismo & Hospitalidade,Eventos,75% gratuita,Presencial,2025-08-17,2027-08-17,Mato Grosso,Rondonópolis
+b6187e6e-5d2c-42e2-aca9-83041132e4ac,Universidade Caruaru,Sem graduação,Pacote Office,50% gratuita,Hibrido,2025-07-31,2029-07-30,Pernambuco,Caruaru
+869ff565-5816-4d78-a666-0c0f33a84c34,Universidade Fortaleza,Engenharias,Engenharia Elétrica,100% gratuita,Hibrido,2025-08-07,2027-08-07,Ceará,Fortaleza
+74af14e5-f7bf-493a-b5e5-6567ea0d9f10,Universidade Nossa Senhora do Socorro,Engenharias,Engenharia Civil,25% gratuita,Presencial,2025-06-16,2028-06-15,Sergipe,Nossa Senhora do Socorro
+a637b84f-e748-4ce1-bf5c-acbc132159a6,Universidade Cuiabá,Comunicação & Artes,Rádio e TV,50% gratuita,Hibrido,2025-07-02,2026-07-02,Mato Grosso,Cuiabá
+9bcdb5da-c393-4865-9bd3-804049eaa061,Universidade Caruaru,Sem graduação,Português para Estrangeiros,75% gratuita,EAD,2025-08-07,2028-08-06,Pernambuco,Caruaru
+19f105c4-976c-4b55-aa5a-b8d779657d71,Universidade Campina Grande,Ciências Agrárias & Meio Ambiente,Engenharia Agrônoma,25% gratuita,EAD,2025-07-10,2027-07-10,Paraíba,Campina Grande
+8f72c45f-71d2-48e8-bd79-7dc7f9b8e9db,Universidade Dourados,Sem graduação,Pacote Office,25% gratuita,EAD,2025-07-11,2029-07-10,Mato Grosso do Sul,Dourados
+b1410769-fcf8-4012-bc8f-75a7100d19b5,Universidade Manaus,Ciências Médicas,Enfermagem,75% gratuita,Hibrido,2025-06-24,2029-06-23,Amazonas,Manaus
+249d735f-4cd2-49da-a5f6-495cb51a4d82,Universidade Porto Alegre,Arquitetura e Urbanismo & Design,Design de Interiores,25% gratuita,Hibrido,2025-07-25,2027-07-25,Rio Grande do Sul,Porto Alegre
+7f94cf28-bf08-44d2-b946-eb85b0a72951,Universidade Parnaíba,Ciências Médicas,Fisioterapia,50% gratuita,EAD,2025-08-09,2027-08-09,Piauí,Parnaíba
+33f89690-0d5d-416c-8def-67c13cc4a67a,Universidade Maceió,Ciências Agrárias & Meio Ambiente,Engenharia Agrônoma,75% gratuita,Presencial,2025-07-03,2029-07-02,Alagoas,Maceió
+32a2714b-c81b-4131-aa3b-138a7c9c3da5,Universidade Cuiabá,Ciências Médicas,Fisioterapia,75% gratuita,Hibrido,2025-07-12,2028-07-11,Mato Grosso,Cuiabá
+c3e81366-8042-4e59-947b-a597d6e107c9,Universidade Porto Velho,Turismo & Hospitalidade,Eventos,25% gratuita,Presencial,2025-08-06,2027-08-06,Rondônia,Porto Velho
+51196b77-f86a-459a-a330-3054943b6e92,Universidade Salvador,TI & Computação,Análise e Desenvolvimento de Sistemas,25% gratuita,Presencial,2025-08-03,2029-08-02,Bahia,Salvador
+c29d7dfd-78ed-45e7-a072-f4a12fec9fd0,Universidade Palmas,Arquitetura e Urbanismo & Design,Design de Interiores,25% gratuita,Hibrido,2025-08-10,2029-08-09,Tocantins,Palmas
+5b2aeb81-988f-4999-b71f-7e4e95600c1f,Universidade Arapiraca,Ciências Biológicas e da Saúde,Biomedicina,75% gratuita,EAD,2025-08-15,2026-08-15,Alagoas,Arapiraca
+0096b49a-c58c-4e9b-9491-eadd761b1267,Universidade Rondonópolis,Ciências Humanas,História,25% gratuita,Presencial,2025-08-15,2026-08-15,Mato Grosso,Rondonópolis
+4c6a7022-ab4c-4ed6-b915-bf1c18138761,Universidade Rio Branco,Ciências Humanas,História,25% gratuita,Presencial,2025-07-28,2027-07-28,Acre,Rio Branco
+edd4a6e2-3931-4be3-bdfd-5504f50d6abd,Universidade Boa Vista,Ciências Médicas,Fisioterapia,75% gratuita,EAD,2025-08-15,2028-08-14,Roraima,Boa Vista
+ef261cbf-7766-4ec2-8ff3-244a95ccea3d,Universidade Cruzeiro do Sul,Arquitetura e Urbanismo & Design,Arquitetura,100% gratuita,Hibrido,2025-06-28,2029-06-27,Acre,Cruzeiro do Sul
+85f3e1a5-94fa-42b9-ba73-32849e6e315f,Universidade Vila Velha,Engenharias,Engenharia Civil,100% gratuita,EAD,2025-08-12,2028-08-11,Espírito Santo,Vila Velha
+0693c199-58ba-4dd7-9639-a413125954b3,Universidade Santana,Ciências Médicas,Medicina,100% gratuita,Presencial,2025-06-20,2028-06-19,Amapá,Santana
+34a12abf-b0c5-443d-bfb0-e06fc04fa859,Universidade Curitiba,Ciências Jurídicas,Ciências Políticas,25% gratuita,Presencial,2025-06-29,2029-06-28,Paraná,Curitiba
+dc026a58-edc6-4205-be1a-fa99dc0e93e8,Universidade Boa Vista,Ciências Biológicas e da Saúde,Educação Física,75% gratuita,Presencial,2025-06-09,2028-06-08,Roraima,Boa Vista
+bc3c5589-2ee7-4052-a032-44c731def265,Universidade Cruzeiro do Sul,Ciências Humanas,Filosofia,75% gratuita,Hibrido,2025-07-14,2029-07-13,Acre,Cruzeiro do Sul
+88390829-09a1-46a7-816b-6367bdffad3f,Universidade Campina Grande,Ciências Humanas,Sociologia,100% gratuita,Hibrido,2025-07-13,2026-07-13,Paraíba,Campina Grande
+d38a6b9b-b06d-41da-935f-0d695d65c778,Universidade Parnaíba,Sem graduação,Pacote Office,50% gratuita,Hibrido,2025-06-06,2026-06-06,Piauí,Parnaíba
+b7ae76d1-2236-471b-ac88-c2837ef41788,Universidade Arapiraca,Ciências Agrárias & Meio Ambiente,Engenharia Agrônoma,25% gratuita,Presencial,2025-06-17,2028-06-16,Alagoas,Arapiraca
+b9974d03-4b9e-4b55-9c0f-d6d7adefed8e,Universidade Belém,Ciências Humanas,Filosofia,100% gratuita,Presencial,2025-07-12,2026-07-12,Pará,Belém
+fc573c2b-4853-4ddb-9fa0-a5342640cd9a,Universidade João Pessoa,Gestão & Negócios,Administração,50% gratuita,Hibrido,2025-08-13,2027-08-13,Paraíba,João Pessoa
+f1f5eba9-2db8-40ad-a137-2481f7c3e5aa,Universidade Imperatriz,Ciências Jurídicas,Ciências Políticas,75% gratuita,Presencial,2025-06-20,2026-06-20,Maranhão,Imperatriz
+d015146c-f349-4168-8e82-ddb3797d3cfa,Universidade Porto Alegre,Comunicação & Artes,Publicidade,50% gratuita,Hibrido,2025-06-27,2027-06-27,Rio Grande do Sul,Porto Alegre
+0deae12c-ad97-498e-956c-1ef61833d5f0,Universidade Natal,Ciências Humanas,Sociologia,100% gratuita,Presencial,2025-06-08,2028-06-07,Rio Grande do Norte,Natal
+31ba6a77-2860-4bd1-b526-a8cf615592cf,Universidade Nossa Senhora do Socorro,Comunicação & Artes,Jornalismo,25% gratuita,EAD,2025-07-07,2026-07-07,Sergipe,Nossa Senhora do Socorro
+e7c627b3-98a6-4f5e-9480-6d695a8d880d,Universidade Campo Grande,Turismo & Hospitalidade,Eventos,50% gratuita,EAD,2025-06-10,2028-06-09,Mato Grosso do Sul,Campo Grande
+1922312d-fc3b-4741-965d-556db1bedf21,Universidade Caxias do Sul,Ciências Agrárias & Meio Ambiente,Gestão Ambiental,75% gratuita,Presencial,2025-07-29,2028-07-28,Rio Grande do Sul,Caxias do Sul
+87d701bc-02a9-4920-9efe-0b952400c6ad,Universidade Joinville,Ciências Jurídicas,Direito,75% gratuita,Presencial,2025-07-25,2027-07-25,Santa Catarina,Joinville
+c2f0c914-8b38-44bb-8387-243d40eb12ee,Universidade Campinas,Ciências Médicas,Enfermagem,75% gratuita,Presencial,2025-07-01,2029-06-30,São Paulo,Campinas
+8ba53d9f-4517-457d-93b1-0a03085226f7,Universidade Manaus,Gestão & Negócios,Gestão de RH,25% gratuita,Presencial,2025-07-15,2027-07-15,Amazonas,Manaus
+d55a9a8f-3d99-4b3d-a536-bc85f3d8c785,Universidade Salvador,Ciências Agrárias & Meio Ambiente,Engenharia Agrônoma,100% gratuita,EAD,2025-07-01,2027-07-01,Bahia,Salvador
+4bb39237-3cf6-46fd-8532-728f1ac84887,Universidade Santana,Ciências Jurídicas,Ciências Políticas,25% gratuita,EAD,2025-08-16,2027-08-16,Amapá,Santana
+e1343964-c606-429b-a866-9c17b506c89c,Universidade Uberlândia,Turismo & Hospitalidade,Eventos,100% gratuita,Hibrido,2025-07-27,2026-07-27,Minas Gerais,Uberlândia
+63ddda2c-7b55-4af7-92ab-2897e76670b6,Universidade Cuiabá,Ciências Jurídicas,Ciências Políticas,75% gratuita,EAD,2025-07-05,2026-07-05,Mato Grosso,Cuiabá
+80b30722-3614-4fe0-84ed-3ef2d001ecfd,Universidade Imperatriz,Arquitetura e Urbanismo & Design,Arquitetura,50% gratuita,EAD,2025-08-04,2029-08-03,Maranhão,Imperatriz
+50880409-f005-4801-86bd-eff2f9993bc8,Universidade Curitiba,Ciências Agrárias & Meio Ambiente,Gestão Ambiental,100% gratuita,Presencial,2025-06-11,2027-06-11,Paraná,Curitiba
+351307b4-647f-4e0c-8a7a-35f9a746601c,Universidade Teresina,Turismo & Hospitalidade,Hotelaria,100% gratuita,Presencial,2025-08-20,2026-08-20,Piauí,Teresina
+7c053bc8-fa2e-4090-a6a4-fdb39735339c,Universidade Ji-Paraná,Turismo & Hospitalidade,Hotelaria,75% gratuita,Presencial,2025-06-23,2026-06-23,Rondônia,Ji-Paraná
+77695fed-a113-4c9f-b9ac-8dd5acfec9d5,Universidade Teresina,Arquitetura e Urbanismo & Design,Arquitetura,50% gratuita,Hibrido,2025-07-28,2028-07-27,Piauí,Teresina
+a51ac20f-7dac-4d12-b993-84616112eb9e,Universidade Caxias do Sul,Ciências Biológicas e da Saúde,Nutrição,25% gratuita,EAD,2025-07-18,2029-07-17,Rio Grande do Sul,Caxias do Sul
+a99af278-358f-4367-9c25-9c2a93db4bd2,Universidade Santana,Arquitetura e Urbanismo & Design,Design Gráfico,25% gratuita,Presencial,2025-07-10,2029-07-09,Amapá,Santana
+f67af447-fa50-433c-acba-91623af56431,Universidade Rio Branco,Arquitetura e Urbanismo & Design,Arquitetura,25% gratuita,Hibrido,2025-06-23,2026-06-23,Acre,Rio Branco
+7cf22bc4-4967-4691-8b99-fc2b8db50d9c,Universidade Londrina,TI & Computação,Sistemas de Informação,100% gratuita,Hibrido,2025-07-13,2028-07-12,Paraná,Londrina
+035f9ceb-5db1-4513-87da-e35dc2ebadab,Universidade Caruaru,Gestão & Negócios,Marketing,100% gratuita,Presencial,2025-07-30,2028-07-29,Pernambuco,Caruaru
+6b235055-2b5d-4f65-82d9-919b18ad50df,Universidade Imperatriz,Ciências Médicas,Enfermagem,75% gratuita,EAD,2025-08-18,2027-08-18,Maranhão,Imperatriz
+f04b426c-f868-466d-a587-43ec667cd2ea,Universidade Araguaína,TI & Computação,Análise e Desenvolvimento de Sistemas,75% gratuita,Presencial,2025-06-28,2027-06-28,Tocantins,Araguaína
+0a8ed672-366f-44c3-a956-9c27b56081d8,Universidade Caxias do Sul,Ciências Médicas,Enfermagem,25% gratuita,Presencial,2025-06-14,2029-06-13,Rio Grande do Sul,Caxias do Sul
+572e60af-5a7e-4efd-91ae-956246931a50,Universidade Caruaru,Gestão & Negócios,Marketing,25% gratuita,EAD,2025-06-22,2027-06-22,Pernambuco,Caruaru
+06ea1ed2-ff90-4659-aead-96f0cec47e10,Universidade Brasília,Sem graduação,Edição de Vídeo,75% gratuita,Hibrido,2025-08-15,2029-08-14,Distrito Federal,Brasília
+244c7f2b-1cb0-4b22-9107-95e7fefaf076,Universidade Curitiba,Engenharias,Engenharia Elétrica,50% gratuita,EAD,2025-06-28,2026-06-28,Paraná,Curitiba
+3bf30fa8-99c8-4b29-9780-1590f6465272,Universidade Campo Grande,Ciências Agrárias & Meio Ambiente,Engenharia Agrônoma,50% gratuita,Presencial,2025-06-06,2028-06-05,Mato Grosso do Sul,Campo Grande
+a2c223bd-9ae5-4cbf-91b0-5347af5e3a63,Universidade Natal,Comunicação & Artes,Publicidade,75% gratuita,Presencial,2025-07-17,2027-07-17,Rio Grande do Norte,Natal
+5f62c97e-07c1-4b3a-bbab-d04510b11f2f,Universidade Joinville,Arquitetura e Urbanismo & Design,Arquitetura,75% gratuita,Presencial,2025-06-21,2029-06-20,Santa Catarina,Joinville
+036eb638-4c71-4569-83f8-ef963dd22d1c,Universidade Juazeiro do Norte,Arquitetura e Urbanismo & Design,Arquitetura,25% gratuita,Hibrido,2025-07-17,2028-07-16,Ceará,Juazeiro do Norte
+ebfe1d34-d6bf-4e19-b855-2cbb4dd9123f,Universidade Campinas,Gestão & Negócios,Marketing,25% gratuita,Hibrido,2025-07-07,2029-07-06,São Paulo,Campinas
+7ba8766b-748e-4683-b3d8-40411574362d,Universidade Santarém,Ciências Médicas,Enfermagem,100% gratuita,EAD,2025-08-08,2026-08-08,Pará,Santarém
+688352c9-c173-4593-a20b-63328c84a17c,Universidade Porto Velho,Ciências Biológicas e da Saúde,Nutrição,75% gratuita,Hibrido,2025-07-22,2028-07-21,Rondônia,Porto Velho
+94d2c400-0a94-4896-a443-d70f64fc918d,Universidade Macapá,TI & Computação,Ciência da Computação,100% gratuita,EAD,2025-06-04,2027-06-04,Amapá,Macapá
+0832bd9d-e73f-46fb-a196-7e270dac846e,Universidade Brasília,Arquitetura e Urbanismo & Design,Arquitetura,50% gratuita,Presencial,2025-07-27,2028-07-26,Distrito Federal,Brasília
+44c7b20e-a13b-4284-9158-70eee306c4b7,Universidade Vitória,Sem graduação,Pacote Office,50% gratuita,EAD,2025-07-21,2029-07-20,Espírito Santo,Vitória
+7ce7d341-96e8-4b1d-8b2c-df1422592503,Universidade Anápolis,Arquitetura e Urbanismo & Design,Design Gráfico,75% gratuita,EAD,2025-06-28,2026-06-28,Goiás,Anápolis
+4b634eea-e056-46bf-beec-7df6ae6e474f,Universidade Brasília,TI & Computação,Análise e Desenvolvimento de Sistemas,25% gratuita,Presencial,2025-08-08,2028-08-07,Distrito Federal,Brasília
+0bb004a8-7244-491c-b644-719a23449d20,Universidade Parnaíba,Engenharias,Engenharia Civil,75% gratuita,Hibrido,2025-06-01,2028-05-31,Piauí,Parnaíba
+4d2a84f2-aa69-490a-8e28-ac07d4353f61,Universidade Salvador,Engenharias,Engenharia Civil,25% gratuita,Presencial,2025-06-13,2029-06-12,Bahia,Salvador
+70b5fde0-c77f-43fe-bdf5-159a321e135e,Universidade Caruaru,Engenharias,Engenharia Elétrica,75% gratuita,Presencial,2025-07-05,2026-07-05,Pernambuco,Caruaru
+01f04c50-2eea-4bce-9f64-644c159b629d,Universidade Curitiba,Ciências Médicas,Medicina,100% gratuita,Presencial,2025-06-20,2026-06-20,Paraná,Curitiba
+c8434b56-d941-49de-a455-745e1ebbc298,Universidade Vitória,Gestão & Negócios,Administração,100% gratuita,Presencial,2025-07-15,2029-07-14,Espírito Santo,Vitória
+3c984336-d648-4787-a90f-c928f678a08a,Universidade Porto Alegre,Engenharias,Engenharia Mecânica,25% gratuita,EAD,2025-07-03,2028-07-02,Rio Grande do Sul,Porto Alegre
+4289de09-17b8-4262-9b71-e10c0b2894cd,Universidade Rio Branco,Engenharias,Engenharia Mecânica,100% gratuita,Hibrido,2025-06-02,2029-06-01,Acre,Rio Branco
+6a5dace7-4f88-490c-94f1-231df81c0a7e,Universidade Parintins,Ciências Jurídicas,Ciências Políticas,100% gratuita,Hibrido,2025-08-06,2028-08-05,Amazonas,Parintins
+21d8b35e-5ecc-4533-b232-fd052e5eb3e9,Universidade Teresina,Ciências Agrárias & Meio Ambiente,Gestão Ambiental,25% gratuita,EAD,2025-06-26,2026-06-26,Piauí,Teresina
+d49241a4-c58c-460e-af75-e14c695be71d,Universidade Boa Vista,Ciências Jurídicas,Ciências Políticas,75% gratuita,Hibrido,2025-07-05,2029-07-04,Roraima,Boa Vista
+561a2195-113c-4c05-b18a-8e7ad41ad3db,Universidade Campinas,Ciências Jurídicas,Ciências Políticas,25% gratuita,Presencial,2025-07-30,2028-07-29,São Paulo,Campinas
+a6923fd0-f19d-46fb-b1f1-d72ac2c65dc8,Universidade Imperatriz,Gestão & Negócios,Gestão de RH,50% gratuita,Presencial,2025-07-17,2026-07-17,Maranhão,Imperatriz
+6d81b006-91af-4454-94e0-7e8a9279b676,Universidade Uberlândia,Ciências Médicas,Enfermagem,50% gratuita,EAD,2025-07-16,2027-07-16,Minas Gerais,Uberlândia
+6602237a-74f9-4965-9b57-6b5e65ef751e,Universidade Curitiba,Comunicação & Artes,Publicidade,75% gratuita,Presencial,2025-06-09,2026-06-09,Paraná,Curitiba
+0fb591a8-9997-44d8-afff-bc3f041630f6,Universidade Juazeiro do Norte,Sem graduação,Português para Estrangeiros,25% gratuita,EAD,2025-07-10,2028-07-09,Ceará,Juazeiro do Norte
+1505076d-d6c8-408d-829c-3b7e7ed49bf8,Universidade Arapiraca,TI & Computação,Análise e Desenvolvimento de Sistemas,25% gratuita,Presencial,2025-08-15,2027-08-15,Alagoas,Arapiraca
+3248e7ec-d522-41e2-8da1-5a510ac9bce1,Universidade Recife,Ciências Agrárias & Meio Ambiente,Gestão Ambiental,50% gratuita,Presencial,2025-06-29,2026-06-29,Pernambuco,Recife
+0d7cf9ab-2093-46d4-a6dc-2be62eb9c3d3,Universidade Arapiraca,Ciências Humanas,Filosofia,50% gratuita,EAD,2025-07-20,2029-07-19,Alagoas,Arapiraca
+f3350a18-b833-4ddf-8256-b56343b1df0c,Universidade Imperatriz,TI & Computação,Análise e Desenvolvimento de Sistemas,50% gratuita,Presencial,2025-08-04,2026-08-04,Maranhão,Imperatriz
+b504c35c-be6c-4f43-b20c-c7b01ac8cb18,Universidade Santarém,Ciências Biológicas e da Saúde,Nutrição,25% gratuita,EAD,2025-06-15,2026-06-15,Pará,Santarém
+8637e0f5-b3a7-4fd5-9cfe-ed4c7798a981,Universidade Teresina,Engenharias,Engenharia Elétrica,25% gratuita,Presencial,2025-07-30,2028-07-29,Piauí,Teresina
+85ea1564-10ce-41a8-ae1e-538ff3e8bfd1,Universidade Vila Velha,Ciências Biológicas e da Saúde,Educação Física,50% gratuita,Presencial,2025-08-05,2028-08-04,Espírito Santo,Vila Velha
+9f679fdb-8d00-4562-babc-3f8874ba597c,Universidade Nossa Senhora do Socorro,Ciências Humanas,Sociologia,50% gratuita,Hibrido,2025-07-09,2026-07-09,Sergipe,Nossa Senhora do Socorro
+2f0e634a-24a1-47a0-a200-934209bf0c14,Universidade Campina Grande,Engenharias,Engenharia Mecânica,100% gratuita,Hibrido,2025-07-27,2027-07-27,Paraíba,Campina Grande
+f7dced5f-0f73-4e75-9780-23e69fc53c84,Universidade Dourados,Engenharias,Engenharia Elétrica,25% gratuita,Hibrido,2025-06-13,2027-06-13,Mato Grosso do Sul,Dourados
+64e5bb6c-a8ce-45d2-a136-c6b689ebc8a8,Universidade Macapá,Ciências Biológicas e da Saúde,Educação Física,75% gratuita,Hibrido,2025-06-22,2027-06-22,Amapá,Macapá
+a4c10860-f566-4f97-b036-a471f88b59a3,Universidade Natal,Ciências Médicas,Medicina,100% gratuita,Hibrido,2025-07-12,2026-07-12,Rio Grande do Norte,Natal
+78fc31da-fc41-4e6f-972e-c2a0fa7289a1,Universidade Anápolis,Ciências Biológicas e da Saúde,Nutrição,25% gratuita,Presencial,2025-08-14,2026-08-14,Goiás,Anápolis
+3e71c26f-1ea7-468f-8ed4-27befb5029b6,Universidade Cruzeiro do Sul,Gestão & Negócios,Gestão de RH,100% gratuita,Hibrido,2025-06-02,2029-06-01,Acre,Cruzeiro do Sul
+48039e18-e2bf-41e6-bf3e-2b4efce16fcf,Universidade Cuiabá,Turismo & Hospitalidade,Eventos,100% gratuita,EAD,2025-06-13,2027-06-13,Mato Grosso,Cuiabá
+4490502c-55b9-43df-9cb7-75e858a3b76c,Universidade Campina Grande,Ciências Agrárias & Meio Ambiente,Gestão Ambiental,25% gratuita,Hibrido,2025-08-13,2029-08-12,Paraíba,Campina Grande
+8defa319-96fb-4b69-9a63-bcad1d6af4fd,Universidade Feira de Santana,Ciências Jurídicas,Direito,100% gratuita,Hibrido,2025-06-02,2027-06-02,Bahia,Feira de Santana
+906fd512-b0ad-4d79-b2b6-2917d29b5c74,Universidade Niterói,Comunicação & Artes,Publicidade,25% gratuita,Hibrido,2025-06-23,2029-06-22,Rio de Janeiro,Niterói
+7f89b155-429e-410a-8aed-d11f5e1e00b2,Universidade Imperatriz,Sem graduação,Português para Estrangeiros,25% gratuita,Presencial,2025-06-11,2028-06-10,Maranhão,Imperatriz
+ca87e882-039c-401e-be4f-f17e6100b7d0,Universidade Macapá,Ciências Agrárias & Meio Ambiente,Gestão Ambiental,25% gratuita,Presencial,2025-06-13,2027-06-13,Amapá,Macapá
+e7e31d0b-8c68-4f3d-90fe-299b7a3564d2,Universidade Londrina,Turismo & Hospitalidade,Eventos,25% gratuita,Presencial,2025-06-23,2028-06-22,Paraná,Londrina
+7940c01e-94d9-45ed-ba4a-b8c471a16ee3,Universidade Santarém,TI & Computação,Sistemas de Informação,25% gratuita,Hibrido,2025-07-27,2026-07-27,Pará,Santarém
+7b3ad38b-9b42-4c48-bf6d-459b37ebb231,Universidade Joinville,Ciências Médicas,Medicina,50% gratuita,EAD,2025-07-02,2026-07-02,Santa Catarina,Joinville
+9948085d-2670-4ff3-98ee-ea1a4869baea,Universidade Arapiraca,Sem graduação,Edição de Vídeo,25% gratuita,Presencial,2025-07-27,2029-07-26,Alagoas,Arapiraca
+6cc7787f-3eb5-4f26-ac85-ca4651b5904f,Universidade Maceió,Ciências Humanas,Filosofia,25% gratuita,Presencial,2025-07-31,2029-07-30,Alagoas,Maceió
+2d099515-56d6-45ab-ba83-7fc12b8a8c2d,Universidade Dourados,Ciências Jurídicas,Direito,100% gratuita,EAD,2025-08-13,2027-08-13,Mato Grosso do Sul,Dourados
+ad20c3e1-3712-4d1d-989e-d302f2978dde,Universidade Anápolis,Ciências Médicas,Fisioterapia,25% gratuita,Hibrido,2025-08-08,2026-08-08,Goiás,Anápolis
+712d898a-d979-4989-891c-d8ed5aef5669,Universidade Joinville,Sem graduação,Pacote Office,75% gratuita,EAD,2025-08-05,2029-08-04,Santa Catarina,Joinville
+ca5918d1-4072-4440-bff0-debde74594a1,Universidade Rio de Janeiro,Arquitetura e Urbanismo & Design,Design de Interiores,100% gratuita,EAD,2025-07-11,2029-07-10,Rio de Janeiro,Rio de Janeiro
+7fc1dce6-80db-4b0c-bcd0-e03db2b093ed,Universidade Juazeiro do Norte,Gestão & Negócios,Administração,50% gratuita,Presencial,2025-08-19,2028-08-18,Ceará,Juazeiro do Norte
+e4841179-d4c4-432c-a193-1f30d5c17ecf,Universidade Recife,Engenharias,Engenharia Civil,100% gratuita,Hibrido,2025-07-13,2028-07-12,Pernambuco,Recife
+03f3d3a1-406c-42b9-bc7e-195ee343d097,Universidade Juazeiro do Norte,Gestão & Negócios,Marketing,50% gratuita,Presencial,2025-07-31,2028-07-30,Ceará,Juazeiro do Norte
+52021d4f-7dfb-4d00-ba77-835de2592098,Universidade Florianópolis,Ciências Humanas,Filosofia,75% gratuita,Hibrido,2025-08-14,2027-08-14,Santa Catarina,Florianópolis
+d402702d-d04a-4cae-8b61-0c5b56d54567,Universidade Dourados,Ciências Agrárias & Meio Ambiente,Engenharia Agrônoma,50% gratuita,EAD,2025-07-22,2029-07-21,Mato Grosso do Sul,Dourados
+15b2756f-1d88-48df-91ad-efd379b4d8ee,Universidade Dourados,Sem graduação,Português para Estrangeiros,75% gratuita,Presencial,2025-08-12,2027-08-12,Mato Grosso do Sul,Dourados
+61012797-9caf-4ba6-8e9a-ab2b2500044c,Universidade Campo Grande,Engenharias,Engenharia Elétrica,100% gratuita,Hibrido,2025-06-13,2026-06-13,Mato Grosso do Sul,Campo Grande
+b7f3338c-f290-4b27-98b7-d9260561bfe0,Universidade Vitória,Ciências Biológicas e da Saúde,Educação Física,75% gratuita,Presencial,2025-07-31,2029-07-30,Espírito Santo,Vitória
+2b62b55f-1948-4915-ab02-8d593cf1ab15,Universidade Cuiabá,Engenharias,Engenharia Elétrica,100% gratuita,Presencial,2025-08-11,2027-08-11,Mato Grosso,Cuiabá
+c01396ce-1a2f-470c-82b5-982340cb9f8c,Universidade Niterói,TI & Computação,Sistemas de Informação,75% gratuita,Hibrido,2025-06-08,2029-06-07,Rio de Janeiro,Niterói
+4ff00bde-caca-4625-99e4-d02c4abb834d,Universidade Caruaru,Ciências Médicas,Enfermagem,75% gratuita,Presencial,2025-07-15,2027-07-15,Pernambuco,Caruaru
+c1921aad-05b9-4bf7-ac3d-60ac80e06f3c,Universidade Cuiabá,Engenharias,Engenharia Civil,100% gratuita,EAD,2025-08-09,2028-08-08,Mato Grosso,Cuiabá
+a5aca7d2-d934-4783-971b-9ecd56e273d9,Universidade Santarém,Ciências Jurídicas,Direito,50% gratuita,Hibrido,2025-07-09,2028-07-08,Pará,Santarém
+42b566c3-7b95-4c29-9edf-5ffb57049718,Universidade Rio de Janeiro,Comunicação & Artes,Jornalismo,50% gratuita,EAD,2025-07-19,2029-07-18,Rio de Janeiro,Rio de Janeiro
+5c0361c7-29db-49f7-b00f-8684475970c4,Universidade Manaus,Engenharias,Engenharia Mecânica,75% gratuita,EAD,2025-08-06,2028-08-05,Amazonas,Manaus
+ce46e9b9-45eb-4892-a0f1-a1c00ef94d83,Universidade Teresina,Gestão & Negócios,Administração,75% gratuita,Presencial,2025-07-19,2029-07-18,Piauí,Teresina
+a7792f11-a556-4a9e-85ba-8163b709b592,Universidade Mossoró,Ciências Médicas,Fisioterapia,75% gratuita,Hibrido,2025-07-29,2029-07-28,Rio Grande do Norte,Mossoró
+e25f5ef9-984f-4390-8c30-fcd798b8ac00,Universidade Arapiraca,TI & Computação,Análise e Desenvolvimento de Sistemas,100% gratuita,EAD,2025-06-14,2028-06-13,Alagoas,Arapiraca
+89d4d3e3-1955-4c76-9535-d35bbe3e2582,Universidade Uberlândia,Comunicação & Artes,Publicidade,75% gratuita,EAD,2025-06-27,2028-06-26,Minas Gerais,Uberlândia
+052e4ddd-5843-4251-aec4-6268eb33a268,Universidade Belo Horizonte,Gestão & Negócios,Administração,100% gratuita,Presencial,2025-07-14,2026-07-14,Minas Gerais,Belo Horizonte
+7a8bc130-6f99-4aa4-920e-0e9092a6c34f,Universidade Arapiraca,TI & Computação,Análise e Desenvolvimento de Sistemas,25% gratuita,EAD,2025-07-25,2026-07-25,Alagoas,Arapiraca
+bfc04f3a-ac96-4dc1-b733-a656480e0ea9,Universidade Belém,Ciências Agrárias & Meio Ambiente,Engenharia Agrônoma,50% gratuita,Hibrido,2025-06-18,2026-06-18,Pará,Belém
+62d86738-6934-437b-ac34-fc02f65e5be0,Universidade Florianópolis,Arquitetura e Urbanismo & Design,Design de Interiores,25% gratuita,Hibrido,2025-08-14,2028-08-13,Santa Catarina,Florianópolis
+f8aa3533-39e0-4f5f-82e4-824a6f89b6a3,Universidade Macapá,Comunicação & Artes,Jornalismo,25% gratuita,Presencial,2025-06-11,2029-06-10,Amapá,Macapá
+5d6de40a-bdc8-462c-b140-7ad20eb6062a,Universidade Porto Alegre,Arquitetura e Urbanismo & Design,Design Gráfico,100% gratuita,Presencial,2025-08-05,2027-08-05,Rio Grande do Sul,Porto Alegre
+3aa561b9-8958-433d-b155-6b6525d17545,Universidade Fortaleza,Turismo & Hospitalidade,Hotelaria,75% gratuita,Hibrido,2025-06-16,2029-06-15,Ceará,Fortaleza
+2c0f03ff-28c8-4409-935f-756cfcdcbcd0,Universidade Araguaína,Ciências Agrárias & Meio Ambiente,Gestão Ambiental,100% gratuita,EAD,2025-06-22,2027-06-22,Tocantins,Araguaína
+442a9dc6-463c-4486-a5f7-ecb1f4ed8bd9,Universidade Rio de Janeiro,Ciências Jurídicas,Direito,75% gratuita,Presencial,2025-06-06,2026-06-06,Rio de Janeiro,Rio de Janeiro
+05ef8d2d-5515-4474-99e8-2c49cb44c59b,Universidade Anápolis,Ciências Agrárias & Meio Ambiente,Gestão Ambiental,75% gratuita,Hibrido,2025-08-10,2027-08-10,Goiás,Anápolis
+226abf1b-79f1-4908-922d-0f2e9d6ccffe,Universidade Araguaína,Ciências Médicas,Enfermagem,75% gratuita,EAD,2025-07-20,2027-07-20,Tocantins,Araguaína
+c0349b9a-9f46-4bae-97fd-bd82f4f43973,Universidade Anápolis,Ciências Jurídicas,Ciências Políticas,75% gratuita,EAD,2025-08-19,2027-08-19,Goiás,Anápolis
+543effd5-696d-4e4a-9509-3ec9bae0d6a1,Universidade Fortaleza,Ciências Médicas,Fisioterapia,100% gratuita,Hibrido,2025-08-10,2027-08-10,Ceará,Fortaleza
+ff7a2fb2-2bfa-4665-875b-1df2fd66a294,Universidade Londrina,Ciências Agrárias & Meio Ambiente,Gestão Ambiental,100% gratuita,Presencial,2025-07-27,2027-07-27,Paraná,Londrina
+e3c21a8c-e5fc-418c-b913-d3d5200d3c31,Universidade Rio de Janeiro,Engenharias,Engenharia Elétrica,100% gratuita,Presencial,2025-06-29,2029-06-28,Rio de Janeiro,Rio de Janeiro
+1959dde7-591a-43f0-ad28-b1bc6a4e79fe,Universidade Salvador,Comunicação & Artes,Rádio e TV,50% gratuita,EAD,2025-06-05,2026-06-05,Bahia,Salvador
+b5cf8253-15e1-4952-a47a-4a9b1e3b84f5,Universidade Macapá,Engenharias,Engenharia Elétrica,25% gratuita,EAD,2025-06-30,2026-06-30,Amapá,Macapá
+c0fa088e-4918-4dce-884d-502a0f804568,Universidade Rio de Janeiro,Engenharias,Engenharia Mecânica,25% gratuita,Presencial,2025-06-17,2026-06-17,Rio de Janeiro,Rio de Janeiro
+0e0e2da9-b398-4f6c-8c76-dc737d07f171,Universidade Natal,Ciências Humanas,Sociologia,75% gratuita,EAD,2025-08-15,2029-08-14,Rio Grande do Norte,Natal
+74ae8a9b-bb00-4bd4-a4c7-8618d753365b,Universidade Florianópolis,TI & Computação,Análise e Desenvolvimento de Sistemas,100% gratuita,Hibrido,2025-06-25,2028-06-24,Santa Catarina,Florianópolis
+b1881309-ae2f-4774-a7f5-a03a6994d0b2,Universidade Belém,Engenharias,Engenharia Elétrica,25% gratuita,Hibrido,2025-06-13,2028-06-12,Pará,Belém
+f3ed25c6-e1b1-4b90-ac04-4a380fda50a1,Universidade Araguaína,Ciências Médicas,Enfermagem,50% gratuita,EAD,2025-07-04,2027-07-04,Tocantins,Araguaína
+013121c1-9e8e-45fe-80a9-0eb6c3ab25c5,Universidade Santarém,Ciências Humanas,Sociologia,50% gratuita,Hibrido,2025-06-24,2029-06-23,Pará,Santarém
+0ac11df5-fc23-4b7e-952c-718ff1f96e77,Universidade Santana,TI & Computação,Análise e Desenvolvimento de Sistemas,25% gratuita,Hibrido,2025-07-06,2028-07-05,Amapá,Santana
+f23eb012-ed26-4690-a7e5-d5ba3a81ee1f,Universidade Imperatriz,Gestão & Negócios,Gestão de RH,75% gratuita,Presencial,2025-06-08,2028-06-07,Maranhão,Imperatriz
+1e2572c6-f05b-402a-8b4b-3752aa4f1a59,Universidade Boa Vista,Ciências Médicas,Enfermagem,25% gratuita,Presencial,2025-08-17,2029-08-16,Roraima,Boa Vista
+2ac85978-bf58-4cb5-aad0-8d09e4132604,Universidade Rio de Janeiro,Arquitetura e Urbanismo & Design,Design de Interiores,50% gratuita,EAD,2025-07-05,2028-07-04,Rio de Janeiro,Rio de Janeiro
+c88a336a-b70c-4add-93e3-087ce61effca,Universidade Salvador,Ciências Agrárias & Meio Ambiente,Gestão Ambiental,25% gratuita,Presencial,2025-06-06,2027-06-06,Bahia,Salvador
+6e80e314-ff56-44d9-8af1-fc5268f321d6,Universidade Feira de Santana,Comunicação & Artes,Rádio e TV,100% gratuita,Presencial,2025-06-12,2026-06-12,Bahia,Feira de Santana
+207e05ee-1ec0-49b2-a672-6f2c77e6b99e,Universidade Fortaleza,Ciências Jurídicas,Direito,50% gratuita,Presencial,2025-07-18,2026-07-18,Ceará,Fortaleza
+36e7b68e-f350-4fea-949d-0cc445390d09,Universidade Macapá,Ciências Médicas,Enfermagem,75% gratuita,Hibrido,2025-08-18,2027-08-18,Amapá,Macapá
+29d98e1c-819d-482e-822c-1f788b71ddff,Universidade Rio Branco,Comunicação & Artes,Rádio e TV,100% gratuita,EAD,2025-07-31,2029-07-30,Acre,Rio Branco
+3092effe-9edd-45ab-bfb2-1b1e3d10c497,Universidade Fortaleza,Engenharias,Engenharia Mecânica,50% gratuita,Hibrido,2025-07-27,2028-07-26,Ceará,Fortaleza
+d2a14afb-cae4-4e62-ad47-c33d76a5918b,Universidade Cruzeiro do Sul,Ciências Humanas,Filosofia,50% gratuita,Presencial,2025-06-26,2028-06-25,Acre,Cruzeiro do Sul
+13046423-07b0-497f-88ab-1c30efc5a217,Universidade Porto Alegre,Ciências Agrárias & Meio Ambiente,Engenharia Agrônoma,100% gratuita,EAD,2025-06-23,2029-06-22,Rio Grande do Sul,Porto Alegre
+d1ff45a9-9630-41e2-89e2-298772714ab7,Universidade Vila Velha,Comunicação & Artes,Rádio e TV,100% gratuita,Hibrido,2025-06-06,2026-06-06,Espírito Santo,Vila Velha
+67e97d24-4a62-4d9a-986f-0c987359f9e0,Universidade Cuiabá,Arquitetura e Urbanismo & Design,Design Gráfico,100% gratuita,Hibrido,2025-07-12,2029-07-11,Mato Grosso,Cuiabá
+872581f5-c7d7-468a-8f21-c1f23db2fc73,Universidade São Luís,Ciências Médicas,Enfermagem,75% gratuita,EAD,2025-06-21,2026-06-21,Maranhão,São Luís
+6a7c497a-086d-4f90-ac38-516fbe32969a,Universidade Manaus,Ciências Jurídicas,Direito,100% gratuita,Hibrido,2025-07-25,2029-07-24,Amazonas,Manaus
+77b34bb1-eee2-4797-b878-21540cfd2435,Universidade Aracaju,Sem graduação,Edição de Vídeo,75% gratuita,Presencial,2025-06-15,2029-06-14,Sergipe,Aracaju
+e3b49b6c-47dd-4296-8a4b-238a556e526a,Universidade Imperatriz,Comunicação & Artes,Publicidade,100% gratuita,Presencial,2025-08-07,2026-08-07,Maranhão,Imperatriz
+8d52f84c-deb6-40f7-8c46-b0f8edf1b4fd,Universidade Anápolis,Engenharias,Engenharia Civil,75% gratuita,EAD,2025-06-15,2028-06-14,Goiás,Anápolis
+6b6fec06-3eb4-4c45-b420-503318fc5ce3,Universidade Macapá,Gestão & Negócios,Administração,75% gratuita,Presencial,2025-07-14,2026-07-14,Amapá,Macapá
+3931d0e1-c7ea-41c3-850c-2a1ed77c9be8,Universidade Araguaína,Engenharias,Engenharia Elétrica,75% gratuita,Hibrido,2025-08-12,2028-08-11,Tocantins,Araguaína
+499804ee-02bf-4457-9ce3-99968122e812,Universidade Porto Velho,Arquitetura e Urbanismo & Design,Design Gráfico,25% gratuita,EAD,2025-07-09,2029-07-08,Rondônia,Porto Velho
+4c4ec416-520a-4658-bf35-2d7d7fd78e8f,Universidade Vitória,Turismo & Hospitalidade,Turismo,100% gratuita,Presencial,2025-06-10,2028-06-09,Espírito Santo,Vitória
+e0b79c1b-5871-4e7e-ab7b-60af73dd72a9,Universidade Goiânia,Ciências Biológicas e da Saúde,Educação Física,75% gratuita,EAD,2025-08-06,2028-08-05,Goiás,Goiânia
+a71af627-af26-4abe-b1ef-c6b630fa6ed5,Universidade Dourados,Ciências Agrárias & Meio Ambiente,Gestão Ambiental,50% gratuita,Hibrido,2025-07-21,2027-07-21,Mato Grosso do Sul,Dourados
+7ff2f975-43ed-4e4b-bc51-8b0eca6d1743,Universidade Salvador,Ciências Médicas,Enfermagem,25% gratuita,Presencial,2025-06-03,2028-06-02,Bahia,Salvador
+097ff509-fecb-4826-b3d7-0052598b3f58,Universidade Belo Horizonte,Arquitetura e Urbanismo & Design,Design Gráfico,100% gratuita,EAD,2025-06-03,2028-06-02,Minas Gerais,Belo Horizonte
+2b71fa10-e1dd-4dc7-bc3b-b798bed5df06,Universidade Santarém,Arquitetura e Urbanismo & Design,Arquitetura,100% gratuita,EAD,2025-08-13,2027-08-13,Pará,Santarém
+d1ee6c90-0fcb-4393-a8a5-5421343d3f56,Universidade Londrina,Ciências Jurídicas,Ciências Políticas,50% gratuita,EAD,2025-07-03,2027-07-03,Paraná,Londrina
+ee866ef2-0fd4-4b99-a399-71eda905d859,Universidade Manaus,TI & Computação,Sistemas de Informação,75% gratuita,EAD,2025-06-18,2028-06-17,Amazonas,Manaus
+dd126205-9c85-44ac-af39-bb80e8b051bb,Universidade Brasília,Arquitetura e Urbanismo & Design,Design Gráfico,25% gratuita,EAD,2025-07-04,2028-07-03,Distrito Federal,Brasília
+7d17ab2e-5671-4f5d-87d4-bf6628a6d897,Universidade Cuiabá,Gestão & Negócios,Marketing,75% gratuita,EAD,2025-06-26,2026-06-26,Mato Grosso,Cuiabá
+b4c47cbb-31c8-4603-a729-941fbba63702,Universidade Nossa Senhora do Socorro,Ciências Médicas,Fisioterapia,50% gratuita,Presencial,2025-07-13,2027-07-13,Sergipe,Nossa Senhora do Socorro
+30715ce7-3b08-4fb2-aa7a-d557272c7e80,Universidade Nossa Senhora do Socorro,Comunicação & Artes,Publicidade,100% gratuita,Hibrido,2025-07-14,2028-07-13,Sergipe,Nossa Senhora do Socorro
+69f6f52b-8a01-4624-8133-bff593852615,Universidade Feira de Santana,Gestão & Negócios,Gestão de RH,50% gratuita,EAD,2025-06-25,2026-06-25,Bahia,Feira de Santana
+4a772f42-5f1c-4cec-836f-b1ddf9502bf5,Universidade Londrina,Ciências Médicas,Enfermagem,50% gratuita,Hibrido,2025-07-28,2028-07-27,Paraná,Londrina
+74e3c35b-2623-4769-9ce7-26046cae01d2,Universidade Santarém,Turismo & Hospitalidade,Turismo,25% gratuita,Presencial,2025-07-12,2027-07-12,Pará,Santarém
+18f35d7b-7d58-4655-aded-c1e21cd49865,Universidade Teresina,Gestão & Negócios,Gestão de RH,100% gratuita,Hibrido,2025-06-01,2028-05-31,Piauí,Teresina
+364d95d0-076b-43f5-adce-0b2034ce985f,Universidade Aracaju,Ciências Jurídicas,Direito,25% gratuita,Presencial,2025-07-03,2028-07-02,Sergipe,Aracaju
+f00a83c1-7086-4dd1-a670-e61688064159,Universidade Aracaju,Ciências Jurídicas,Ciências Políticas,75% gratuita,Hibrido,2025-07-06,2027-07-06,Sergipe,Aracaju
+453616ca-f059-46e7-b640-0dd0ff3150e8,Universidade Anápolis,Ciências Biológicas e da Saúde,Educação Física,100% gratuita,Hibrido,2025-08-04,2029-08-03,Goiás,Anápolis
+36f99a8b-e04e-48c0-8d32-41d46821befb,Universidade Porto Velho,Engenharias,Engenharia Elétrica,75% gratuita,Presencial,2025-07-10,2028-07-09,Rondônia,Porto Velho
+4123dd85-c905-4b78-a956-09e65af5089f,Universidade Feira de Santana,Ciências Agrárias & Meio Ambiente,Gestão Ambiental,100% gratuita,EAD,2025-07-01,2027-07-01,Bahia,Feira de Santana
+a1a30a5e-0e95-4f4d-9e51-b746c1a25b68,Universidade Rio de Janeiro,Ciências Biológicas e da Saúde,Nutrição,100% gratuita,EAD,2025-06-02,2027-06-02,Rio de Janeiro,Rio de Janeiro
+0ae07583-146b-43e8-9920-400bff2ed357,Universidade Boa Vista,TI & Computação,Análise e Desenvolvimento de Sistemas,50% gratuita,EAD,2025-06-15,2027-06-15,Roraima,Boa Vista
+085bbee6-19f3-4507-9b1c-5b12e059acc3,Universidade João Pessoa,TI & Computação,Ciência da Computação,75% gratuita,Presencial,2025-06-18,2028-06-17,Paraíba,João Pessoa
+5a64ec75-9af8-4d49-9868-5eeec2a94a1d,Universidade Uberlândia,Turismo & Hospitalidade,Hotelaria,75% gratuita,EAD,2025-08-19,2026-08-19,Minas Gerais,Uberlândia
+b6e4519e-7f99-4c36-8774-1877197107ea,Universidade Vitória,Arquitetura e Urbanismo & Design,Design de Interiores,75% gratuita,Presencial,2025-08-04,2029-08-03,Espírito Santo,Vitória
+9e2fc61e-fffa-4b39-896b-afb57319e78f,Universidade Feira de Santana,Ciências Médicas,Enfermagem,75% gratuita,Presencial,2025-07-01,2026-07-01,Bahia,Feira de Santana
+331bb656-da95-41a0-9d07-b4ff2b7d14e2,Universidade Campinas,Ciências Humanas,História,75% gratuita,Hibrido,2025-07-20,2029-07-19,São Paulo,Campinas
+19950701-f416-4fd0-ace0-9e511f1ecf08,Universidade João Pessoa,Arquitetura e Urbanismo & Design,Arquitetura,50% gratuita,Presencial,2025-08-05,2026-08-05,Paraíba,João Pessoa
+bf4137b9-13a8-4b2d-ac47-1a34218edaf6,Universidade Palmas,Engenharias,Engenharia Civil,50% gratuita,Presencial,2025-07-04,2029-07-03,Tocantins,Palmas
+113eb0bf-8fb4-49db-90e7-a8771064ebdd,Universidade Uberlândia,Ciências Jurídicas,Direito,25% gratuita,Presencial,2025-06-13,2027-06-13,Minas Gerais,Uberlândia
+bd7e9105-bc76-480f-8c7e-eab24a6b6632,Universidade Joinville,Gestão & Negócios,Marketing,75% gratuita,EAD,2025-06-11,2027-06-11,Santa Catarina,Joinville
+03498fbc-af71-4ddc-b3d0-771579db5c99,Universidade Porto Velho,Arquitetura e Urbanismo & Design,Design de Interiores,75% gratuita,EAD,2025-07-04,2027-07-04,Rondônia,Porto Velho
+7ed6cf72-4984-4776-a584-284cb16ea11b,Universidade Belo Horizonte,Sem graduação,Edição de Vídeo,50% gratuita,Presencial,2025-08-04,2029-08-03,Minas Gerais,Belo Horizonte
+adfb79bd-dbf9-4dee-8d54-bd59db14ecdc,Universidade Vila Velha,Engenharias,Engenharia Mecânica,25% gratuita,Hibrido,2025-07-10,2029-07-09,Espírito Santo,Vila Velha
+2308aa4b-3b6f-4956-95b9-8ddfe8bfc35b,Universidade João Pessoa,Gestão & Negócios,Gestão de RH,50% gratuita,Hibrido,2025-08-12,2028-08-11,Paraíba,João Pessoa
+ecd9024b-cedd-427a-8485-00f879ec824f,Universidade Palmas,Comunicação & Artes,Jornalismo,50% gratuita,Presencial,2025-06-18,2026-06-18,Tocantins,Palmas
+96e52c25-6267-4477-9c85-f49d92821675,Universidade Cuiabá,Turismo & Hospitalidade,Hotelaria,100% gratuita,Presencial,2025-08-01,2027-08-01,Mato Grosso,Cuiabá
+f6078c4c-35d5-4d87-86e2-a85996dddd21,Universidade Brasília,Gestão & Negócios,Gestão de RH,100% gratuita,Hibrido,2025-07-02,2029-07-01,Distrito Federal,Brasília
+e4a09c5d-a983-4d7b-9d6b-f58cf9f945b0,Universidade Recife,Sem graduação,Edição de Vídeo,50% gratuita,EAD,2025-08-06,2028-08-05,Pernambuco,Recife
+e2a1a841-5055-4b2c-a632-7de6e607180a,Universidade Rio Branco,Ciências Biológicas e da Saúde,Biomedicina,75% gratuita,EAD,2025-06-14,2026-06-14,Acre,Rio Branco
+be9a2ab3-ac0a-4ea6-a34e-c211cace724d,Universidade Porto Alegre,Ciências Jurídicas,Direito,50% gratuita,EAD,2025-06-07,2028-06-06,Rio Grande do Sul,Porto Alegre
+e487de00-4d91-4e4d-8785-7ca3c2dd7f8e,Universidade Manaus,Engenharias,Engenharia Civil,75% gratuita,Hibrido,2025-07-20,2028-07-19,Amazonas,Manaus
+eaaa53f1-35de-4e4f-829e-a1e12e852169,Universidade Anápolis,Ciências Agrárias & Meio Ambiente,Engenharia Agrônoma,75% gratuita,EAD,2025-08-10,2027-08-10,Goiás,Anápolis
+6e57735d-67ed-4e1f-b6e5-7581a9c027b9,Universidade Caruaru,Gestão & Negócios,Administração,75% gratuita,Hibrido,2025-08-04,2029-08-03,Pernambuco,Caruaru
+3a57a466-02d3-47dd-881e-e3b95e4c4447,Universidade Nossa Senhora do Socorro,Ciências Médicas,Medicina,25% gratuita,EAD,2025-08-06,2029-08-05,Sergipe,Nossa Senhora do Socorro
+2a481587-d150-4633-9fb1-2bed35f8625b,Universidade Boa Vista,Comunicação & Artes,Publicidade,50% gratuita,EAD,2025-08-01,2028-07-31,Roraima,Boa Vista
+3d199ab4-28c1-4db1-87ff-e4c4d670aba5,Universidade Parintins,Arquitetura e Urbanismo & Design,Design Gráfico,25% gratuita,Hibrido,2025-06-28,2027-06-28,Amazonas,Parintins
+8ef9b62c-4884-4818-adc6-96458764e3cc,Universidade Uberlândia,Sem graduação,Edição de Vídeo,50% gratuita,EAD,2025-06-08,2026-06-08,Minas Gerais,Uberlândia
+06ddfdcc-abdd-4ef8-bd6b-09586381a73c,Universidade Parnaíba,Arquitetura e Urbanismo & Design,Arquitetura,100% gratuita,EAD,2025-07-28,2027-07-28,Piauí,Parnaíba
+72c93d8f-3f82-46e7-ad80-f93f093cda6b,Universidade João Pessoa,Ciências Humanas,Filosofia,75% gratuita,Presencial,2025-06-06,2026-06-06,Paraíba,João Pessoa
+befb34ce-74bc-4300-9e8b-f44b451caee0,Universidade Parnaíba,Sem graduação,Português para Estrangeiros,50% gratuita,EAD,2025-07-12,2027-07-12,Piauí,Parnaíba
+104be6b9-a0bf-4a0b-af0a-6f059940531b,Universidade Juazeiro do Norte,Gestão & Negócios,Gestão de RH,25% gratuita,EAD,2025-07-21,2029-07-20,Ceará,Juazeiro do Norte
+cd6e6846-8b65-4299-88ad-0a100a5c5150,Universidade Uberlândia,Arquitetura e Urbanismo & Design,Arquitetura,25% gratuita,EAD,2025-06-23,2028-06-22,Minas Gerais,Uberlândia
+1f2e2d6e-4bf7-432f-ac18-03b82aa49028,Universidade Maceió,Comunicação & Artes,Rádio e TV,75% gratuita,Presencial,2025-08-03,2029-08-02,Alagoas,Maceió
+9c42067b-3225-4213-ab48-95dfac3f83ed,Universidade Fortaleza,Ciências Médicas,Enfermagem,75% gratuita,Hibrido,2025-06-25,2029-06-24,Ceará,Fortaleza
+d78cce04-922c-46fc-bb6c-55dd936aaf7b,Universidade Londrina,Turismo & Hospitalidade,Hotelaria,25% gratuita,EAD,2025-08-16,2027-08-16,Paraná,Londrina
+6c0d1067-f6cd-44e4-abeb-a75e0a36a4fe,Universidade Nossa Senhora do Socorro,Sem graduação,Edição de Vídeo,50% gratuita,Presencial,2025-07-31,2028-07-30,Sergipe,Nossa Senhora do Socorro
+297978d8-5400-457f-963d-7f64e8321b91,Universidade Aracaju,Ciências Humanas,Filosofia,100% gratuita,Hibrido,2025-07-13,2029-07-12,Sergipe,Aracaju
+5fd62853-c640-4266-a2fe-3a47aec9bec9,Universidade Dourados,Ciências Médicas,Fisioterapia,75% gratuita,EAD,2025-07-03,2026-07-03,Mato Grosso do Sul,Dourados
+02059181-60da-4121-bb34-d29212d5b255,Universidade Parnaíba,Comunicação & Artes,Jornalismo,75% gratuita,Hibrido,2025-06-30,2027-06-30,Piauí,Parnaíba
