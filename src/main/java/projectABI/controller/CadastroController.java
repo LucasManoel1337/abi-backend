@@ -19,12 +19,23 @@ public class CadastroController {
     }
 
     @PostMapping("/novo")
-    public ResponseEntity<? extends Object> cadastrar(@RequestBody CadastroDto cadastroDto) {
+    public ResponseEntity<?> cadastrar(@RequestBody CadastroDto cadastroDto) {
+        // Verifica se o usuário já existe
+        CadastroDto existente = cadastroService.buscarPorUsuario(cadastroDto.getUsuario());
+
+        if (existente != null) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST)
+                    .body("Erro: já existe um usuário com esse nome.");
+        }
+
+        // Prossegue com o cadastro
         CadastroDto salvo = cadastroService.novoUsuario(cadastroDto);
+
         if (salvo != null) {
             return ResponseEntity.ok("Usuário cadastrado com sucesso!");
         } else {
-            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Erro ao cadastrar usuário.");
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                    .body("Erro ao cadastrar usuário.");
         }
     }
 }

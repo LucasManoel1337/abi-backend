@@ -14,5 +14,6 @@ public class EmpresasDto {
     private String categoria;
     private String funcao;
     private String descricao;
-
+    private String estado;
+    private String municipio;
 }

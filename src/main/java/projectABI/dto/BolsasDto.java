@@ -10,11 +10,13 @@ public class BolsasDto {
 
     @Id
     private String id;
-    private String nome;
+    private String nomeInsituicao;
     private String categoria;
-    private String instituicao;
-    private String descricao;
-    private String tipoDeApoio;
-    private String modalidade;
-    private String exigenciaEscolaridade;
+    private String curso;
+    private String valorDaBolsa;
+    private String modeloDeCurso;
+    private String dataInicio;
+    private String dataFim;
+    private String estado;
+    private String municipio;
 }

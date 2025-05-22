@@ -15,6 +15,4 @@ public class LoginDto {
         this.mensagem = mensagem;
         this.id = id;
     }
-
-    // Getters e Setters
 }

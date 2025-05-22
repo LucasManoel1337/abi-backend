@@ -22,6 +22,12 @@ public class CadastroService {
 
     public CadastroDto novoUsuario(CadastroDto cadastroDto) {
         try {
+            // Verifica se já existe um usuário com o mesmo login
+            CadastroDto existente = cadastroRepository.findByUsuario(cadastroDto.getUsuario());
+            if (existente != null) {
+                return null;
+            }
+
             cadastroDto.setId(UUID.randomUUID().toString());
 
             String senhaOriginal = cadastroDto.getSenha();
@@ -33,5 +39,9 @@ public class CadastroService {
             e.printStackTrace();
             return null;
         }
+    }
+
+    public CadastroDto buscarPorUsuario(String usuario) {
+        return cadastroRepository.findByUsuario(usuario);
     }
 }

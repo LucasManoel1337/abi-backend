@@ -1,81 +1,251 @@
-id,nome,categoria,descricao,funcao
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0001,Estúdio Forma Urbana,Arquitetura e Urbanismo & Design,Projetos de interiores e arquitetura,Assistente de CAD
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0002,VerdeTech Agro,Ciências Agrárias & Meio Ambiente,Soluções sustentáveis para agricultura,Técnico ambiental
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0003,Clínica Vida Plena,Ciências Biológicas e da Saúde,Clínica multidisciplinar,Auxiliar de enfermagem
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0004,Instituto Saber,Ciências Humanas,Projetos educacionais e sociais,Monitor pedagógico
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0005,Lima & Advogados,Ciências Jurídicas,Assessoria jurídica empresarial,Estagiário jurídico
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0006,Hospital São Lucas,Ciências Médicas,Atendimento de média e alta complexidade,Recepcionista hospitalar
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0007,Agência Criativa 360,Comunicação & Artes,Publicidade e mídias digitais,Editor de vídeo júnior
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0008,Construtora Alpha,Engenharias,Execução de obras civis,Desenhista técnico
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0009,Grupo GestaCorp,Gestão & Negócios,Consultoria empresarial,Assistente administrativo
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0010,CodeMasters Brasil,TI & Computação,Desenvolvimento de softwares personalizados,Suporte técnico
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0011,Hotel Serra Azul,Turismo & Hospitalidade,Hotel de alto padrão no interior,Camareira
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0012,FoodExpress,Sem graduação,Rede de lanches e fast food,Atendente de lanchonete
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0013,Construtora Mão Forte,Sem graduação,Construções e reformas,Servente de pedreiro
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0014,Supermercado Econômico,Sem graduação,Rede de supermercados com filiais em SP,Repositor de mercadorias
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0015,Express Entregas Urbanas,Sem graduação,Serviços logísticos e de entrega local,Motoboy
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0016,Lava Rápido Turbo,Sem graduação,Lavagem automotiva rápida,Lavador de carros
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0017,Serviço Pronto Manutenções,Sem graduação,Serviços residenciais diversos,Ajudante geral
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0018,Coletivo de Eventos SP,Sem graduação,Produção de festas e eventos corporativos,Montador de estrutura
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0019,Café da Vila,Sem graduação,Padaria e cafeteria tradicional,Garçom / garçonete
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0020,Limpeza Top,Sem graduação,Serviços terceirizados de limpeza comercial,Auxiliar de limpeza
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0021,Minsait,TI & Computação,Soluções digitais e consultoria em tecnologia,Desenvolvedor Java
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0022,Studio Rastro,Comunicação & Artes,Produção audiovisual e branding,Assistente de criação
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0023,BioVerde Ambiental,Ciências Agrárias & Meio Ambiente,Gestão e monitoramento ambiental,Técnico em meio ambiente
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0024,Instituto Movimento Humano,Ciências Biológicas e da Saúde,Terapias corporais e bem-estar,Fisioterapeuta auxiliar
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0025,Centro de Estudos Raízes,Ciências Humanas,Cursos e projetos sociais,Educador comunitário
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0026,Mendes & Associados,Ciências Jurídicas,Consultoria e advocacia,Auxiliar jurídico
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0027,Clínica Médica Popular,Ciências Médicas,Atendimento clínico acessível,Auxiliar de consultório
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0028,Cubo Publicidade,Comunicação & Artes,Criação de campanhas digitais,Social media júnior
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0029,Construtora Ideal,Engenharias,Projetos e execução de obras,Auxiliar de engenharia civil
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0030,Grupo Gestão+Mais,Gestão & Negócios,Planejamento financeiro e estratégico,Auxiliar de planejamento
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0031,NovaWeb Solutions,TI & Computação,Agência de desenvolvimento web,Estagiário em front-end
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0032,Pousada Brisa da Serra,Turismo & Hospitalidade,Hospitalidade em região montanhosa,Auxiliar de recepção
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0033,Pizzaria Massa Leve,Sem graduação,Delivery de pizzas artesanais,Atendente de balcão
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0034,Obras Rápidas,Sem graduação,Reformas e manutenção rápida,Auxiliar de obras
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0035,Hiper Center Popular,Sem graduação,Loja de variedades e utilidades,Repositor
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0036,Corre Entregas,Sem graduação,Serviços de entregas urbanas,Entregador de bicicleta
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0037,Lava & Brilha,Sem graduação,Lava rápido ecológico,Auxiliar de serviços
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0038,ReparaTudo SP,Sem graduação,Pequenos consertos residenciais,Assistente de manutenção
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0039,Eventos Elite,Sem graduação,Organização de eventos sociais,Auxiliar de montagem
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0040,Padaria Central,Sem graduação,Padaria tradicional com lanches,Auxiliar de cozinha
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0041,Ateliê de Arquitetura Prisma,Arquitetura e Urbanismo & Design,Projetos residenciais e reformas,Estagiário em arquitetura
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0042,AgroPlan Soluções,Ciências Agrárias & Meio Ambiente,Planejamento agrícola sustentável,Técnico agrícola
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0043,Saúde Viva Centro Médico,Ciências Biológicas e da Saúde,Atendimento integrado em saúde,Recepcionista clínica
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0044,Foco Educacional,Ciências Humanas,Reforço escolar e oficinas culturais,Instrutor de reforço
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0045,Advocacia Silva & Prado,Ciências Jurídicas,Assessoria jurídica civil e trabalhista,Assistente jurídico
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0046,Clínica Bem Cuidar,Ciências Médicas,Consultas médicas e exames laboratoriais,Atendente de laboratório
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0047,Agência Lumina,Comunicação & Artes,Criação publicitária e campanhas sociais,Designer júnior
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0048,Torres Engenharia,Engenharias,Consultoria em engenharia elétrica,Auxiliar técnico
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0049,Eficaz Consultoria,Gestão & Negócios,Consultoria em processos e produtividade,Auxiliar de consultoria
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0050,ByteLab Sistemas,TI & Computação,Desenvolvimento de apps e APIs,Analista de testes júnior
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0051,Hostel Liberdade,Turismo & Hospitalidade,Hostel urbano para jovens viajantes,Auxiliar de serviços gerais
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0052,Dogão Express,Sem graduação,Food truck especializado em hot dogs,Atendente de food truck
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0053,Obra Fácil,Sem graduação,Serviços de pedreiro e reforma rápida,Servente
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0054,Loja Mega Variedades,Sem graduação,Comércio varejista de utilidades domésticas,Repositor de loja
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0055,Entregou Rápido,Sem graduação,Entrega de encomendas leves,Entregador autônomo
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0056,Lava Car Limpo Já,Sem graduação,Lava rápido com sistema a seco,Auxiliar de lavagem
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0057,MultiFix Manutenções,Sem graduação,Manutenção predial e consertos,Auxiliar de eletricista
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0058,Eventos Mania,Sem graduação,Organização de festas infantis,Montador de brinquedos
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0059,Café com Amor,Sem graduação,Café aconchegante com produtos artesanais,Garçom
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0060,Brilho & Limpeza,Sem graduação,Limpeza de condomínios e escritórios,Auxiliar de serviços
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0061,Lanchonete Sabor Brasil,Sem graduação,Fast food e lanches rápidos,Atendente de lanchonete
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0062,ConstruMais,Sem graduação,Construção civil e reformas,Servente de obra
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0063,Supermercado Fácil,Sem graduação,Supermercado de bairro,Repositor de mercadorias
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0064,Expresso Rápido,Sem graduação,Serviços de entrega e motoboy,Motoboy
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0065,AutoWash,Sem graduação,Lavagem automotiva rápida,Lavador de carros
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0066,Serviço Total,Sem graduação,Serviços gerais de manutenção,Ajudante geral
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0067,Festa Fácil,Sem graduação,Produção de eventos e festas,Montador de estruturas
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0068,Boliche 24h,Sem graduação,Lazer e entretenimento,Atendente de pista
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0069,Cantinho da Esquina,Sem graduação,Café e padaria local,Garçom / garçonete
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0070,Limpeza Pro,Sem graduação,Serviços terceirizados de limpeza,Auxiliar de limpeza
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0071,Transporte Urbano,Sem graduação,Transporte de cargas leves,Motorista de van
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0072,PetShop Amigo,Sem graduação,Serviços para animais de estimação,Auxiliar de pet shop
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0073,Oficina Mecânica Rápida,Sem graduação,Manutenção de veículos leves,Mecânico auxiliar
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0074,Bazar Popular,Sem graduação,Vendas de roupas e utilidades,Atendente de loja
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0075,Jardim & Cia,Sem graduação,Serviços de jardinagem e paisagismo,Ajudante de jardinagem
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0076,Distribuidora Alvo,Sem graduação,Distribuição de produtos alimentícios,Conferente de estoque
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0077,Clean Express,Sem graduação,Lavagem a seco de estofados e carpetes,Auxiliar de limpeza
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0078,Bom Sabor,Sem graduação,Restaurante popular,Auxiliar de cozinha
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0079,Express Entregas,Sem graduação,Entrega rápida de encomendas,Entregador
-d6b5a1d0-0f8c-43d6-89aa-9b982a2e0080,Montagem e Cia,Sem graduação,Montagem e manutenção de móveis,Ajudante de montagem
+id,nome,categoria,descricao,funcao,estado,municipio
+3f9b9b0e-86f5-4d56-b6a0-9a3f7727c09c,Magazine Luiza,Gestão & Negócios,Rede varejista brasileira com atuação em eletrodomésticos e eletrônicos,Vendedor,São Paulo,São Paulo
+5a7c8d4e-01bf-4b9f-bc5e-89a4d09876a1,Ambev,Engenharias,Empresa líder em bebidas na América Latina,Analista de produção,Rio de Janeiro,Rio de Janeiro
+74fcb782-ec30-4a3a-9a4e-6cbb6eec4330,Padaria Pão Nosso,Turismo & Hospitalidade,Padaria tradicional com atendimento familiar,Atendente de balcão,São Paulo,São Paulo
+1b4d2c77-7848-4d21-8f7a-42a6e4a9239f,Hospital Albert Einstein,Ciências Médicas,Hospital privado de referência em saúde,Enfermeiro,São Paulo,São Paulo
+c9f1e78a-236a-4f53-9e50-4d4f9fda287f,Totvs,TI & Computação,Desenvolvedora de software para gestão empresarial,Programador Java,São Paulo,São Paulo
+a2d3b8f9-2d6c-4e27-b0a3-c0c9d2d0e0f7,Construtora Tenda,Engenharias,Empresa focada em construção civil,Engenheiro civil,Rio de Janeiro,Rio de Janeiro
+d49f6f53-6381-4a4b-b6e3-11e4de3451a9,Escola Municipal Vila Nova,Ciências Humanas,Escola pública de ensino fundamental,Professor,São Paulo,São Paulo
+e8c6d5b4-7c42-43b1-8b53-c6337e278fae,Farmácia São João,Ciências Biológicas e da Saúde,Rede de farmácias com atuação nacional,Assistente de farmácia,Minas Gerais,Belo Horizonte
+bf5e2c7a-0d5a-44d9-bd24-3f1c53a9a83e,Agência de Publicidade XYZ,Comunicação & Artes,Agência de publicidade e marketing digital,Designer gráfico,São Paulo,São Paulo
+7a9c1d4f-3c1f-4e3a-8b7a-59f1d8d6792c,Empresa Agroforte,Ciências Agrárias & Meio Ambiente,Produção e comercialização agrícola,Técnico agrícola,Mato Grosso,Cuiabá
+39c8f7a2-e134-4a56-b75a-5d59183479af,Restaurante Bom Gosto,Turismo & Hospitalidade,Restaurante especializado em comida regional,Garçom,Rio Grande do Sul,Porto Alegre
+581d9f72-34fa-4f4e-aaf5-f633e2b2dffe,Loja de Materiais de Construção São Jorge,Arquitetura e Urbanismo & Design,Loja de materiais para construção e reforma,Vendedor,São Paulo,Campinas
+1df4c983-cd84-48a3-8bca-6a5f911b7f04,Clínica Odontológica Sorriso,Ciências Médicas,Clínica com atendimento odontológico,Auxiliar de saúde bucal,Rio de Janeiro,Niterói
+4d9bfcde-52a1-4f3a-915d-8fca92f7a6a4,Banco do Brasil,Gestão & Negócios,Instituição financeira pública,Atendente bancário,Distrito Federal,Brasília
+24c7f2d8-6c34-4b9e-8837-3f1a4c7e1290,Ateliê de Moda Ana Lucia,Arquitetura e Urbanismo & Design,Confecção de roupas sob medida,Costureira,São Paulo,São Paulo
+8fca25d1-27a7-43ea-9df7-0e74e9732a5e,Companhia de Teatro Z,Comunicação & Artes,Produção teatral e eventos culturais,Ator,Rio de Janeiro,Rio de Janeiro
+b6d8f5c9-7a9f-4a32-8bfb-5c7891d3d832,Universidade Federal do Paraná,Ciências Humanas,Instituição pública de ensino superior,Pesquisador,Paraná,Curitiba
+f09c6e7b-3c8a-4c6d-a7e2-1d5e8e6fbb43,Oficina Mecânica do Zé,Sem graduação,Serviços de manutenção automotiva,Mecânico,São Paulo,São Paulo
+e4a3c1d2-9f87-4b28-a3db-3cda9e87374b,Pousada Mar Azul,Turismo & Hospitalidade,Pousada localizada no litoral,Recepcionista,Rio de Janeiro,Búzios
+c3b9d1f4-42b2-4af3-bb9e-2b18f5a7a749,Cacau Show,Gestão & Negócios,Rede de franquias especializada em chocolates,Atendente,São Paulo,São Paulo
+d4e67f98-1c7b-43b6-bf89-e2e153f86f2a,BRF,Engenharias,Empresa do setor de alimentos e frigoríficos,Analista de qualidade,Santa Catarina,Concórdia
+7e3f9d1a-cb3e-42d7-84ef-68e0a19e0f4c,Escola Técnica SENAI,Ciências Humanas,Escola técnica profissionalizante,Instrutor,Rio de Janeiro,Rio de Janeiro
+ea0f13b1-f531-44ea-b1f9-79d6a48d420d,Clinica Vida Plena,Ciências Médicas,Clínica multidisciplinar de saúde,Recepcionista,Minas Gerais,Belo Horizonte
+1d5e9734-63c8-48aa-bd0a-82a6453d5a0e,Sebrae,Gestão & Negócios,Organização de apoio ao microempreendedor,Consultor empresarial,São Paulo,São Paulo
+ff78203d-567b-4d67-b8ec-8a1c33bf8d68,Pizzaria Bella Napoli,Turismo & Hospitalidade,Pizzaria tradicional,Atendente,Rio Grande do Sul,Porto Alegre
+9c415a20-20a9-4f67-b49e-f1a67c6c7a0c,Correios,Gestão & Negócios,Empresa de serviços postais e logística,Auxiliar de logística,Distrito Federal,Brasília
+a7d842a2-924d-4f6b-82ec-142e02b9d4be,Grupo Pão de Açúcar,Gestão & Negócios,Rede varejista supermercadista,Operador de caixa,São Paulo,São Paulo
+bfbf0d3e-0a5f-4a41-83bc-3f823a7e4d3e,Farmácia Droga Raia,Ciências Biológicas e da Saúde,Rede de farmácias e drogarias,Vendedor,São Paulo,São Paulo
+ed4b3c1a-57f8-43f9-8ad6-1a9e5df85b91,Universidade de São Paulo,Ciências Humanas,Universidade pública federal,Professor,São Paulo,São Paulo
+aa1bc3d2-9274-4d21-919a-40e1e8f1f4a3,Agropecuária Rio Verde,Ciências Agrárias & Meio Ambiente,Fazenda produtora de soja e milho,Agrônomo,Mato Grosso,Lucas do Rio Verde
+7c9ea123-69b0-4f97-86b4-13f07f3f2d09,Oficina Auto Mecânica Silva,Sem graduação,Serviços de manutenção automotiva,Mecânico,Rio de Janeiro,Niterói
+43a2e7f8-3c2b-4b5a-b7e3-58f7c20d998b,TV Globo,Comunicação & Artes,Emissora de televisão,Editor de vídeo,Rio de Janeiro,Rio de Janeiro
+e93c9b47-f76c-4a33-9f2a-25e9c78707de,Construtora MRV,Engenharias,Empresa de construção civil e imóveis,Engenheiro civil,São Paulo,São Paulo
+b567c0a8-0f21-4569-a661-c35ef2f7b8d7,Hotel Fasano,Turismo & Hospitalidade,Hotel de luxo em São Paulo,Recepcionista,São Paulo,São Paulo
+593fc73a-9834-4a5c-9177-ec8df7f6f0d1,Loja de Roupas Renata,Arquitetura e Urbanismo & Design,Loja de roupas femininas,Atendente,Santa Catarina,Florianópolis
+0e0d1f91-d32a-4f78-b7e8-cc9ab0f20744,Banco Itaú,Gestão & Negócios,Instituição financeira privada,Gerente de conta,São Paulo,São Paulo
+c87d159e-58ea-4a4e-b6b8-bb177e9b9f24,Centro Cultural Sesc,Comunicação & Artes,Espaço cultural e lazer,Coordenador de eventos,São Paulo,São Paulo
+9b4c58f7-ea4d-40db-90ed-dcf5d13d0b62,Posto Shell,Sem graduação,Serviço de abastecimento e conveniência,Bombeiro de pista,Rio de Janeiro,Rio de Janeiro
+2b5a8d4c-27e3-42b7-9d7b-0a6c834cb52f,Clínica Estética Beleza Viva,Ciências Médicas,Clínica de estética e saúde,Recepcionista,São Paulo,São Paulo
+a2e6b23e-4f9b-4e4f-89c0-4e8c65c8fa2f,Magazine Luiza,Gestão & Negócios,Rede varejista de eletrodomésticos e eletrônicos,Vendedor,Minas Gerais,Belo Horizonte
+d781f012-7a2e-4f6c-9f7c-fb0614a3d35b,Petrobras,Engenharias,Empresa estatal de petróleo e gás,Engenheiro de produção,Rio de Janeiro,Rio de Janeiro
+c3f5e6d7-1f5a-4d7e-9a39-671d5a66f6d8,Santa Casa de Misericórdia,Ciências Médicas,Hospitais filantrópicos,Enfermeiro,São Paulo,São Paulo
+f59b2e1a-6f5c-48a7-a4e7-3d2d93477f4b,Lojas Americanas,Gestão & Negócios,Rede varejista de produtos variados,Atendente,Rio Grande do Sul,Porto Alegre
+b4d97e25-14a2-4a8f-b99e-46d8ae7d2a5f,Hospital das Clínicas,Ciências Médicas,Hospital universitário,Auxiliar de enfermagem,São Paulo,São Paulo
+71c2e942-c8a6-4d1b-8c67-1c2d6749f034,Instituto Federal do Amazonas,Ciências Humanas,Instituição de ensino técnico,Professor,Amazonas,Manaus
+48d6f8ae-8e5a-4f0b-bc2f-fb4a5a4de5bb,Embraer,Engenharias,Empresa aeroespacial e de defesa,Técnico em manutenção,Acre,Rio Branco
+ce6d49c3-1b65-4f9c-b0a3-57ef3b1d0d3e,Hospital São Lucas,Ciências Médicas,Hospital geral,Recepcionista,Paraná,Curitiba
+d45fbc10-f0a7-43cc-9f3e-e51f3c2bdb38,Farmácia São Paulo,Ciências Biológicas e da Saúde,Rede de farmácias,Atendente,São Paulo,São Paulo
+e82391cd-bb75-4e91-8af1-cc6e3e2c7c17,Grupo Boticário,Comunicação & Artes,Empresa de cosméticos,Vendedor,Paraná,Cascavel
+9a7bfa28-c3ae-41c7-b5e0-9e73c75d879e,Instituto Federal da Bahia,Ciências Humanas,Instituição técnica federal,Instrutor,Bahia,Salvador
+f2c1c3d8-59b7-4b8f-9c88-d467f2bb9f1d,Supermercado Guanabara,Gestão & Negócios,Rede supermercadista,Operador de caixa,Rio de Janeiro,Niterói
+dbb3425e-5f10-4df2-a1f4-2b6d65e32eb7,Senac São Paulo,Ciências Humanas,Serviço Nacional de Aprendizagem Comercial,Instrutor,São Paulo,São Paulo
+6758af1c-8c09-4849-9ad0-14eaa506bc0a,Hospital Moinhos de Vento,Ciências Médicas,Hospitais privados,Auxiliar administrativo,Rio Grande do Sul,Porto Alegre
+8cf9d2a0-38ee-4d6f-9c3e-e1c348ad52f3,Agência dos Correios,Gestão & Negócios,Empresa pública de serviços postais,Atendente,Pernambuco,Recife
+4bc89d16-c7e1-4f27-b4a6-7107d3cde7a7,IFTO - Instituto Federal do Tocantins,Ciências Humanas,Ensino técnico e tecnológico,Técnico em informática,Tocantins,Palmas
+f9a2b3d0-6294-4e12-b365-573a66dfb8b0,Hospital Regional de Mato Grosso do Sul,Ciências Médicas,Hospital público,Enfermeiro,Mato Grosso do Sul,Campo Grande
+bc1d4a3f-4ca1-4216-9f22-7d6ec3e3d1d9,Loja de Roupas Maria Clara,Sem graduação,Comércio local de roupas,Atendente,Rio Grande do Norte,Natal
+8a7d9f5c-0de3-4b8a-983c-cb5e9a3f2711,Prefeitura Municipal de Fortaleza,Gestão & Negócios,Administração pública municipal,Assistente administrativo,Ceará,Fortaleza
+d08bc53f-5979-4748-bf20-4df9a7e9c3c2,Supermercados Guanabara,Gestão & Negócios,Rede de supermercados,Repositor,Rio de Janeiro,Rio de Janeiro
+e4d68a87-74a0-4e3d-8f1e-2b8e36a6c23b,C&A,Gestão & Negócios,Rede varejista de moda,Vendedor,São Paulo,Campinas
+7fda1c2b-9ae1-43a5-8f47-b37b9f993924,Usiminas,Engenharias,Indústria siderúrgica,Operador de máquina,Minas Gerais,Ipatinga
+1b5d5e03-f9e6-4d10-9c7f-3097d9b9b3f9,Hospital Albert Einstein,Ciências Médicas,Hospital privado de alta complexidade,Médico,São Paulo,São Paulo
+8b6f3a04-1e0a-4d0e-84b0-22a792a245db,Banco do Brasil,Gestão & Negócios,Banco público,Analista financeiro,Distrito Federal,Brasília
+c97a6c1d-5c78-4e53-b7e1-8d2de49b02b9,Ambev,Gestão & Negócios,Empresa de bebidas,Auxiliar de produção,Rio de Janeiro,Duque de Caxias
+23b6d5f7-6c4f-4a84-8d88-ec782a21b1e5,Hospital Regional do Cariri,Ciências Médicas,Hospitais públicos,Enfermeiro,Ceará,Juazeiro do Norte
+f8276d12-44a3-4f3f-b311-cac9e3e6f42d,Hospital de Base do Distrito Federal,Ciências Médicas,Hospital público,Recepcionista,Distrito Federal,Brasília
+e5a62c3e-9ef2-4e62-bf8b-dbc6a2e41209,Assaí Atacadista,Gestão & Negócios,Rede de atacado,Repositor,São Paulo,São José dos Campos
+017f5e6a-f7b3-4a31-92cb-f2e3fae4b8c7,Instituto Federal do Rio Grande do Sul,Ciências Humanas,Ensino técnico federal,Professor,Rio Grande do Sul,Porto Alegre
+5e92e8c1-9a2a-4f55-9333-cb5a9f2d54bf,Grupo Pão de Açúcar,Gestão & Negócios,Rede varejista de supermercados,Operador de caixa,São Paulo,São Paulo
+d4a3a5e2-4c7f-48f0-bf53-740e89a9dfbb,Hospital Santa Catarina,Ciências Médicas,Hospitais privados,Auxiliar de enfermagem,Santa Catarina,Joinville
+30bc17c9-9f36-47ae-93db-011d9e12ed3c,Farmácia Pague Menos,Ciências Biológicas e da Saúde,Rede de farmácias,Atendente,Paraíba,João Pessoa
+891cf9a3-ff38-411d-93c2-47aefb9e1a01,Supermercado Big Bom,Ciências Biológicas e da Saúde,Supermercado local,Repositor,Rondônia,Porto Velho
+7bbf52b7-838a-48b9-919b-59f90eae8126,Hospital Universitário Walter Cantídio,Ciências Médicas,Hospital universitário,Auxiliar administrativo,Ceará,Fortaleza
+64f3b221-3f2b-4c24-8b22-44c6e5b5314d,Unimed Fortaleza,Ciências Médicas,Cooperativa médica,Recepcionista,Ceará,Fortaleza
+21f9a7d0-bc7f-4e1b-8d30-bab8a2c36bf8,Hospital do Coração,Ciências Médicas,Hospital especializado,Enfermeiro,São Paulo,São Paulo
+fcb5a47e-2ddc-4a6d-b312-373143a05a0b,Prefeitura de Florianópolis,Gestão & Negócios,Administração pública municipal,Assistente administrativo,Santa Catarina,Florianópolis
+c783e24a-cb59-4ec6-9b5f-ec5b7486831c,Instituto Federal do Ceará,Ciências Humanas,Ensino técnico e tecnológico,Instrutor,Ceará,Fortaleza
+af7d9b62-cb7e-4224-b8db-6a0a0e17a52b,Lojas Renner,Gestão & Negócios,Rede varejista de moda,Vendedor,Rio Grande do Sul,Porto Alegre
+08d6a9c4-f8a5-42e4-8bd2-4e1b7f3ec2f7,Magazine Luiza,Gestão & Negócios,Rede varejista de eletrodomésticos e eletrônicos,Atendente de loja,Minas Gerais,Belo Horizonte
+9a1f7eec-6c58-4a5e-93e9-197db87c742d,Petrobras,Engenharias,Empresa estatal de petróleo e gás,Engenheiro de produção,Rio de Janeiro,Rio de Janeiro
+f1a5cbe6-9d5b-4c29-9187-0bc5127c2e50,Hospital Sírio-Libanês,Ciências Médicas,Hospital privado de alta complexidade,Médico especialista,São Paulo,São Paulo
+ac23e96d-7ef3-43f9-b1d2-1f4ed642d77a,Correios,Gestão & Negócios,Empresa pública de correios e logística,Atendente de agência,Minas Gerais,Uberlândia
+b73a91f5-2b33-4416-97a4-0e2cb1834d98,Natura,Comunicação & Artes,Empresa de cosméticos,Consultor de vendas,São Paulo,Cajamar
+5f4c7b34-5dcd-4a8f-8024-f198d4e25873,Sebrae,Gestão & Negócios,Serviço de apoio às micro e pequenas empresas,Analista administrativo,Distrito Federal,Brasília
+e78394c1-33b0-49db-99a3-8e2d77b79648,Hospital das Clínicas de Porto Alegre,Ciências Médicas,Hospital universitário,Enfermeiro,Rio Grande do Sul,Porto Alegre
+d8f29c6f-cf8b-4a9f-8a3d-0c4a1d6b42a7,Grupo Boticário,Comunicação & Artes,Empresa de cosméticos e perfumaria,Assistente de marketing,Paraná,Curitiba
+7f9db8b0-237d-4dd2-9b5c-3b5b7f4deace,Instituto Federal do Paraná,Ciências Humanas,Instituição pública de ensino técnico,Professor,Paraná,Curitiba
+cfb93ea2-c6a9-4a37-a8f4-1a98f1d462d8,Via Varejo,Gestão & Negócios,Rede varejista de eletrodomésticos e móveis,Repositor,São Paulo,São Bernardo do Campo
+a4db85f3-97ed-4e6e-b0de-54e7353a5d48,Embrapa,Ciências Agrárias & Meio Ambiente,Empresa brasileira de pesquisa agropecuária,Pesquisador,Acre,Rio Branco
+3c19e7f2-3d49-4f2a-8d57-7b6d2f44ec8b,Hospital Mater Dei,Ciências Médicas,Hospital privado de alta complexidade,Médico intensivista,Minas Gerais,Belo Horizonte
+4f9d8c8d-e30a-4d94-82b3-c8f3f3b9e728,Sanepar,Engenharias,Companhia de saneamento básico,Engenheiro ambiental,Paraná,Curitiba
+56a3a78c-f10b-4c8f-bb55-d938857b5f4e,Grupo Pão de Açúcar,Gestão & Negócios,Rede varejista de supermercados,Operador de caixa,São Paulo,São Paulo
+d0b2a4f4-68e8-4edc-85a2-1137f06c6b88,Hospital Moinhos de Vento,Ciências Médicas,Hospital privado,Auxiliar de enfermagem,Rio Grande do Sul,Porto Alegre
+37f7a614-4df0-4f21-8e13-4e7edc79a4a3,Farmácias São João,Ciências Biológicas e da Saúde,Rede de farmácias e drogarias,Farmacêutico,Bahia,Salvador
+90db5724-c6d5-4608-8f0c-2b5f65f1b5e0,Cervejaria Colorado,Gestão & Negócios,Cervejaria artesanal,Assistente de produção,São Paulo,Ribeirão Preto
+02a75e18-6870-44a9-b5b7-45e5d5e8d3d1,Hospital Universitário da UFPE,Ciências Médicas,Hospital universitário público,Médico residente,Pernambuco,Recife
+e5ad2f6d-1c2c-484f-8d4a-b89a7b564fc8,Petrobras Distribuidora,Engenharias,Distribuição de combustíveis e derivados,Técnico de manutenção,Rio de Janeiro,Duque de Caxias
+3a29f5a8-4e8d-4dbe-b22e-684d6a1ed0c9,Prefeitura de Manaus,Gestão & Negócios,Administração pública municipal,Assistente administrativo,Amazonas,Manaus
+f2a48d75-6ec8-43a0-b8ca-3c072ac0b99d,Hospital Santa Casa de Misericórdia,Ciências Médicas,Hospital privado,Enfermeiro,Rio de Janeiro,Rio de Janeiro
+1e3f7c6b-4a89-4f15-9e55-6d67d17e2a3d,Caixa Econômica Federal,Gestão & Negócios,Banco público federal,Analista financeiro,Distrito Federal,Brasília
+b2c94a09-0f7d-4b33-8e4d-6ecb391c3a7e,BRF S.A.,Gestão & Negócios,Empresa multinacional de alimentos,Assistente de produção,Santa Catarina,Concórdia
+5f3d2e7b-3287-4489-9f01-3827d34a3b6c,Hospital das Clínicas da UFMG,Ciências Médicas,Hospital universitário público,Médico residente,Minas Gerais,Belo Horizonte
+9d5a6f4e-3bc5-4d9c-b6fc-fb0e42d9e272,Grupo Algar,Comunicação & Artes,Empresa de tecnologia e serviços de telecomunicações,Analista de suporte,Tocantins,Palmas
+ea2e7b1c-67f5-44db-8a91-23f87a2f324b,Vale S.A.,Engenharias,Multinacional de mineração,Engenheiro de minas,Minas Gerais,Itabira
+c13a92f0-e6ad-4a4c-bd12-1b2297f3caa3,Hospital Regional do Norte,Ciências Médicas,Hospital público de referência,Enfermeiro,Roraima,Boa Vista
+d4a8e6fb-38e1-48fa-b0a5-6c02e5fa6b3d,Grupo Pão de Açúcar,Gestão & Negócios,Rede varejista de supermercados,Gerente de loja,São Paulo,São Paulo
+8f7d9a2b-5a8c-4c29-8b45-cc17e7f0c9d0,Embasa,Engenharias,Companhia de saneamento básico,Engenheiro ambiental,Bahia,Salvador
+3a6b5f89-2d94-4e31-8d59-1e7c0c5a0f24,Hospital Santa Marcelina,Ciências Médicas,Hospital privado,Auxiliar de enfermagem,São Paulo,São Paulo
+e9b4d7a0-6f18-4a0d-9e68-5a7f38c12a8b,Grupo Votorantim,Engenharias,Empresa multinacional do setor industrial,Analista de projetos,São Paulo,Sorocaba
+ca7b8f19-0d4f-4a28-b7d1-f1e8e26f68d3,Supermercados Guanabara,Gestão & Negócios,Rede varejista do Rio de Janeiro,Atendente de caixa,Rio de Janeiro,Niterói
+f8d56e0b-3a1e-4568-bd5e-13c24e7e3f90,Hospital São Lucas,Ciências Médicas,Hospital privado,Recepcionista,Rio Grande do Sul,Porto Alegre
+dcd37a1b-66f8-4d02-8b22-15f847fd2b67,Grupo Gerdau,Engenharias,Multinacional siderúrgica,Engenheiro de produção,Rio Grande do Sul,Porto Alegre
+4e19c7d5-6f49-4c11-8a5c-07ea3f6c721e,Sadia,Gestão & Negócios,Empresa de alimentos,Auxiliar administrativo,Santa Catarina,Concórdia
+b5e3d4a7-8f39-40d6-88a7-15f3c4b8e9fa,Farmácias Pague Menos,Ciências Biológicas e da Saúde,Rede de farmácias e drogarias,Farmacêutico,Ceará,Fortaleza
+3f9e2a7c-7d4b-43f9-bb9c-19f6d0b2e845,Hospital São Camilo,Ciências Médicas,Hospital privado,Enfermeiro,Rio de Janeiro,Rio de Janeiro
+f11d7e4a-9a2c-47f3-8d58-23b7f8c8a2ea,Telefônica Brasil (Vivo),TI & Computação,Empresa de telecomunicações,Técnico em redes,São Paulo,São Paulo
+7b9d6f1e-23a8-4f58-bc15-58c3c9f4e3db,Hospital Regional de Maringá,Ciências Médicas,Hospital público,Auxiliar de serviços gerais,Paraná,Maringá
+d871a0e2-5c67-4b1b-a314-7f9d7c3d9e84,Banco do Brasil,Gestão & Negócios,Banco público federal,Gerente de agência,Distrito Federal,Brasília
+a3f8d1c9-9d2b-4d35-b8a4-549ebf5a67a2,Ambev,Gestão & Negócios,Empresa de bebidas,Analista de logística,São Paulo,Paulínia
+b22d5a77-7e89-4e5a-8d37-4b9a6b3a1f40,Petrobras,Engenharias,Empresa estatal de petróleo,Engenheiro químico,Rio de Janeiro,Rio de Janeiro
+e9c7b012-8425-4b0b-b88a-f1e5e6e2a3e6,Magazine Luiza,Gestão & Negócios,Rede varejista,Atendente de vendas,São Paulo,Francisco Morato
+f7d4122b-33ab-4d9e-bcd7-89b4a7c52f12,Suzano,Engenharias,Multinacional do setor de papel e celulose,Analista de meio ambiente,São Paulo,Suzano
+5c04f2e8-8a8b-4ebf-b0a9-f5dbb8d7b1e4,Hospital Israelita Albert Einstein,Ciências Médicas,Hospital privado de alta complexidade,Médico especialista,São Paulo,São Paulo
+e7a95f1f-4a1e-4dbb-967d-c5f3de59d3f0,Localiza Rent a Car,Gestão & Negócios,Locadora de veículos,Atendente de locação,Minas Gerais,Belo Horizonte
+8bde9a43-5a7d-4b1e-a13a-1c7b2d5c8f9b,Grupo Boticário,Comunicação & Artes,Empresa de cosméticos,Promotor de vendas,Paraná,Curitiba
+57f3e0a4-3a4b-4f88-bf97-e7d4e0b9c37a,Hospital das Clínicas de Porto Alegre,Ciências Médicas,Hospital universitário,Enfermeiro,Rio Grande do Sul,Porto Alegre
+ab96f35d-5f7a-42c3-b137-f8652e3d1a0f,Embrapa,Ciências Agrárias & Meio Ambiente,Empresa de pesquisa agropecuária,Pesquisador,Acre,Rio Branco
+c78e9b20-0a37-4f6d-a1f3-6f8d4d1e7c2a,Correios,Gestão & Negócios,Empresa pública de serviços postais,Carteiro,Rio de Janeiro,Rio de Janeiro
+b5697a30-c3d2-48ec-b8b5-230e7cfa8d94,Hospital Santa Catarina,Ciências Médicas,Hospital privado,Auxiliar administrativo,Santa Catarina,Florianópolis
+22a6f1d7-f9e7-4ad8-a5c4-bd0fa832b1a9,Grupo Fleury,Ciências Biológicas e da Saúde,Grupo de medicina diagnóstica,Assistente de laboratório,São Paulo,São Paulo
+f1e9b6a3-4d8c-4d76-9d3a-9b2b4c1a7c34,Assaí Atacadista,Gestão & Negócios,Rede de atacado,Operador de caixa,São Paulo,Campinas
+1a6d7f94-4e28-4c89-bc6a-80e2d5e49f5a,São Camilo Saúde,Ciências Médicas,Hospital privado,Recepcionista,Rio de Janeiro,Niterói
+7cfa8d60-624a-4f45-b8dc-0f2a6d9b3719,CIEE (Centro de Integração Empresa-Escola),Ciências Humanas,Organização de estágio,Coordenador de estágio,São Paulo,São Paulo
+d0f9eac2-0b37-4f1e-9a25-8c7cbd5a3e1f,Embratel,TI & Computação,Empresa de telecomunicações,Técnico de suporte,Tocantins,Palmas
+6e89f731-172d-409e-b6a5-0d498c7aab38,Banco Santander,Gestão & Negócios,Banco privado,Analista de crédito,São Paulo,São Paulo
+4d3a9c8e-f08a-4bcd-8e7e-f9d5274e8c4b,Hospital Regional do Norte,Ciências Médicas,Hospital público,Enfermeiro,Roraima,Boa Vista
+dbf17c45-8e2a-4b62-aee8-9b5c674c3b7d,Natura Cosméticos,Comunicação & Artes,Empresa de cosméticos,Consultor de vendas,São Paulo,Cajamar
+5c8b8a37-4f7c-45ab-b4d2-03f51d37d0a4,Universidade Federal do Ceará,Ciências Humanas,Instituição pública de ensino,Professor universitário,Ceará,Fortaleza
+32eaf4d7-ff7d-45a3-b451-678b6a4f1c32,Hospital Sírio-Libanês,Ciências Médicas,Hospital privado de alta complexidade,Médico cirurgião,São Paulo,São Paulo
+bd9a7f1e-9c82-4b9a-bf2c-0f2d5b9a2d2f,Grupo CCR,Engenharias,Empresa de infraestrutura de transportes,Engenheiro civil,São Paulo,Campinas
+3e5b1c2a-7d9b-4a6b-bd1e-fb08dca8e88b,Grupo BMG,Gestão & Negócios,Banco e serviços financeiros,Analista de investimentos,Minas Gerais,Belo Horizonte
+ff2b9e3a-99c3-4b1d-9a4f-3b7a8a6d7e1d,Hospital Regional de Maringá,Ciências Médicas,Hospital público,Auxiliar de enfermagem,Paraná,Maringá
+7adbd86e-cf4b-4f2e-8e0e-6c77f9a2d4bc,Grupo Pague Menos,Ciências Biológicas e da Saúde,Rede de farmácias,Farmacêutico,Ceará,Fortaleza
+3f65e7a1-5f29-4b71-9a73-39f8d1c4a8b7,Bradesco,Gestão & Negócios,Banco privado,Analista financeiro,São Paulo,São Paulo
+4d3a72b9-9f6d-4a5b-8e25-27d1aef93f2a,Correios,Gestão & Negócios,Empresa pública de serviços postais,Atendente de agência,Rio de Janeiro,Rio de Janeiro
+8ac9e7d4-1d2f-40a5-9f3d-5b4c7e829d6f,Grupo Pão de Açúcar,Gestão & Negócios,Rede de supermercados,Gerente de loja,São Paulo,São Paulo
+f9d2e4c3-6b7a-48e2-a1d3-0b4f2e9d7a85,CIEE, Ciências Humanas,Organização de estágios e oportunidades,Coordenador de estágio,Rio Grande do Sul,Porto Alegre
+9b6a2f47-7d12-43f3-aef8-6c5b9d7e3a1b,Hospital Moinhos de Vento,Ciências Médicas,Hospital privado de referência,Médico plantonista,Rio Grande do Sul,Porto Alegre
+b0c8a1f2-3f45-4a6d-bfb8-1d9c7a3b4e12,Via Varejo,Gestão & Negócios,Rede varejista,Assistente de vendas,São Paulo,São Paulo
+e6a4f39d-5e23-4c1e-983d-f7b9c2d1e7f6,Unimed,Ciências Médicas,Cooperativa médica,Recepcionista,Rio de Janeiro,Niterói
+0a9f3e27-1c44-4d8b-b4a2-8f7d2a5b6c9e,COPASA,Engenharias,Companhia de saneamento,Engenheiro ambiental,Minas Gerais,Belo Horizonte
+2c4b7d13-8f19-45a7-9a2b-17c8e3f9d4a2,Hospital Santa Marcelina,Ciências Médicas,Hospital filantrópico,Médico residente,São Paulo,São Paulo
+d53e7c12-7a69-4e5f-87db-15b6d9c3a7e4,Natura,Comunicação & Artes,Empresa de cosméticos,Consultor de vendas,Rio de Janeiro,Rio de Janeiro
+f2c4d1a8-6e5b-42a3-8d4a-7b9c3f0e2a7d,Hospital das Clínicas da USP,Ciências Médicas,Hospital universitário,Enfermeiro,São Paulo,São Paulo
+a12c4e7f-9d63-4f8b-8e2a-4b7f0d9c3a6e,Petrobras,Engenharias,Empresa de petróleo e gás,Analista de projetos,Rio de Janeiro,Rio de Janeiro
+b7f1d9e8-3e5c-4a7a-9f23-0a5d7b1c4e9f,Senai,Engenharias,Serviço Nacional de Aprendizagem Industrial,Instrutor técnico,São Paulo,São Paulo
+c0d2a9f1-7b84-41c3-b9d5-f3a7e8c1b6d2,CIEE, Ciências Humanas,Organização de estágios e oportunidades,Analista de RH,São Paulo,São Paulo
+e8a5c7f2-6b9d-4c3a-b7e5-9d4f7a1b2c3d,Hospital São Lucas,Ciências Médicas,Hospital privado,Assistente administrativo,Rio Grande do Sul,Porto Alegre
+f91b7c3a-5a4e-4d8c-9b7d-0f2e6a7c3b8d,Magazine Luiza,Gestão & Negócios,Rede varejista,Atendente,São Paulo,Campinas
+d1a7c8b9-2e34-4f7a-a9c5-1b6d3f9e7a2c,Grupo Boticário,Comunicação & Artes,Empresa de cosméticos,Promotor de vendas,Paraná,Curitiba
+5e8f9d2a-4c3b-5a6d-7e8f-9b0c1d2e3f4a,Ambev,Gestão & Negócios,Empresa de bebidas,Analista de logística,São Paulo,Ribeirão Preto
+6a7b8c9d-1e2f-3a4b-5c6d-7e8f9a0b1c2d,Hospital Regional de Maringá,Ciências Médicas,Hospital público,Enfermeiro,Paraná,Maringá
+3f2e1d0c-9b8a-7c6d-5e4f-3a2b1c0d9e8f,Hospital Santa Casa de Misericórdia,Ciências Médicas,Hospital filantrópico,Médico cirurgião,Minas Gerais,Belo Horizonte
+0a1b2c3d-4e5f-6789-abcd-ef0123456789,Grupo CCR,Engenharias,Infraestrutura de transportes,Engenheiro civil,São Paulo,São Paulo
+15f2d16a-742d-4e7d-bf5c-2a897e9870bc,Ambev,Gestão & Negócios,Multinacional de bebidas,Analista de logística,São Paulo,São Paulo
+6b4f79d8-824c-4d77-9c20-9c8a0e38f2a5,Pão de Açúcar,Gestão & Negócios,Rede de supermercados,Gerente de loja,São Paulo,São Paulo
+9b3e1c6f-4db7-4b30-a4e4-26f5d3a15df1,Magazine Luiza,Gestão & Negócios,Rede varejista de eletrônicos,Atendente de vendas,Minas Gerais,Belo Horizonte
+1d65a8e4-8c3f-48a7-9e93-9a5e76d1e5f3,Bradesco,Gestão & Negócios,Banco privado,Analista financeiro,Rio de Janeiro,Rio de Janeiro
+4e82f27e-13e4-4dbf-9d20-b6cfc8335f62,CIEE,Ciências Humanas,Organização de estágios e oportunidades,Coordenador de estágio,Rio Grande do Sul,Porto Alegre
+e3dcb2a7-41a2-4f7a-9586-7cfcf493ca8e,Natura,Comunicação & Artes,Empresa de cosméticos,Consultor de vendas,São Paulo,Campinas
+fb9745b9-0e88-49f6-8c12-49d08e7d8fbb,Petrobras,Engenharias,Empresa de petróleo e gás,Engenheiro de projetos,Rio de Janeiro,Rio de Janeiro
+5a2e39c6-5477-4f7e-8a0d-23f4be741bba,Unimed,Ciências Médicas,Cooperativa médica,Recepcionista,Rio de Janeiro,Niterói
+3e0c5d82-7016-4e63-b2b6-75e5d3bf1a90,Santa Casa de Misericórdia,Ciências Médicas,Hospital filantrópico,Enfermeiro,Minas Gerais,Belo Horizonte
+3f2935f6-1587-4f45-9cfa-92784b3d79bc,Senai,Engenharias,Serviço Nacional de Aprendizagem Industrial,Instrutor técnico,São Paulo,São Paulo
+d84b1ea7-55d3-4f17-bbc2-bc863dbbd3fc,Hospital Moinhos de Vento,Ciências Médicas,Hospital privado de referência,Médico plantonista,Rio Grande do Sul,Porto Alegre
+8c5e6f14-7a24-4cc1-9ef9-61c9a57f6ae3,Grupo Boticário,Comunicação & Artes,Empresa de cosméticos,Promotor de vendas,Paraná,Curitiba
+c3f9e4b2-f7d0-4a5d-85a8-53d9e9af12e1,Copasa,Engenharias,Companhia de saneamento,Engenheiro ambiental,Minas Gerais,Belo Horizonte
+2f76311e-9ec1-40f8-85bc-05e18a70bb0c,Correios,Gestão & Negócios,Empresa pública de serviços postais,Atendente de agência,Rio de Janeiro,Rio de Janeiro
+ae5c7c19-01e3-4a79-9b2a-2a9bb24a911a,Hospital das Clínicas da USP,Ciências Médicas,Hospital universitário,Enfermeiro,São Paulo,São Paulo
+b2b4b3d7-5ad0-4f06-b464-7a4d1b6b97df,Amil,Ciências Médicas,Plano de saúde,Assistente administrativo,São Paulo,São Paulo
+3a7f8619-cb9e-44d6-b2ae-fdba2e8f442e,Grupo CCR,Engenharias,Infraestrutura de transportes,Engenheiro civil,São Paulo,São Paulo
+9f73899a-569f-488f-b721-20f1f3d2b427,Hospital São Lucas,Ciências Médicas,Hospital privado,Assistente administrativo,Rio Grande do Sul,Porto Alegre
+7e2e9d0d-fcae-41ed-9d0e-7954cb1c5424,Via Varejo,Gestão & Negócios,Rede varejista,Assistente de vendas,São Paulo,São Paulo
+a0dc51f5-1f5c-4a3d-94de-671c5f426e8e,Suzano Papel & Celulose,Engenharias,Empresa de papel e celulose,Analista ambiental,São Paulo,Ribeirão Preto
+5126de77-47d4-43f9-bd63-c1c26e4dce82,Hospital Regional de Maringá,Ciências Médicas,Hospital público,Enfermeiro,Paraná,Maringá
+48b6ccf2-90c9-488a-93d3-23a64a6eae53,CIEE,Ciências Humanas,Organização de estágios e oportunidades,Analista de RH,São Paulo,São Paulo
+1b38b78a-d3f8-46e4-8837-c68a5e78db33,BRF,Gestão & Negócios,Indústria alimentícia,Analista de produção,Santa Catarina,Itajaí
+0fa09e3a-348d-47f9-a9e2-6c0e28c1ac4e,Hospital Santa Marcelina,Ciências Médicas,Hospital filantrópico,Médico residente,São Paulo,São Paulo
+5c3dba20-fade-4f38-b7a8-1a74ecb3703d,Magazine Luiza,Gestão & Negócios,Rede varejista,Atendente,São Paulo,Campinas
+29f13d5f-c88e-4464-9081-bf9b689678e0,Hospital Santa Casa de Misericórdia,Ciências Médicas,Hospital filantrópico,Médico cirurgião,Minas Gerais,Belo Horizonte
+2ef4c535-755a-4c45-9e5d-f6de34f31219,Grupo Pão de Açúcar,Gestão & Negócios,Rede de supermercados,Gerente de loja,São Paulo,São Paulo
+40b6d4ab-4eb7-4bfa-bf3c-b765af6d0a6f,Suzano Papel & Celulose,Engenharias,Empresa de papel e celulose,Analista ambiental,São Paulo,Ribeirão Preto
+0b15ed0a-4d6c-4173-b8e2-8f148fb22f5d,Hospital Santa Casa de São Paulo,Ciências Médicas,Hospital filantrópico,Enfermeiro,São Paulo,São Paulo
+6ad17f67-25d2-4ac2-a2d7-5b4a0a8e2ed9,Hospital São Paulo,Ciências Médicas,Hospital universitário,Médico residente,São Paulo,São Paulo
+c06eb7d9-6e64-4ea6-a157-06f9e48df578,São Camilo Saúde,Ciências Médicas,Hospital privado,Assistente administrativo,Rio de Janeiro,Rio de Janeiro
+a0c17f54-5e72-49aa-bde4-43e5873c7e92,Hospital Albert Einstein,Ciências Médicas,Hospital privado de referência,Médico cirurgião,São Paulo,São Paulo
+1cbe354a-6ca2-4ff6-9d7a-8d37b3e5e43e,CPFL Energia,Engenharias,Empresa de energia,Engenheiro eletricista,São Paulo,Campinas
+e18b18d7-1c92-4f9d-bc4f-0e48c53ef3f2,Banco do Brasil,Gestão & Negócios,Banco público,Analista financeiro,Rio de Janeiro,Rio de Janeiro
+92bc5537-063d-4010-ae47-81f2a9e8b8d1,Hospital Sírio-Libanês,Ciências Médicas,Hospital privado,Enfermeiro,São Paulo,São Paulo
+18f7d45a-5063-4c0e-9d36-9c5b8f2b5de3,Amil,Ciências Médicas,Plano de saúde,Assistente administrativo,Rio de Janeiro,Niterói
+44a8f7e1-51a4-4f79-9304-7cb83e7c3c39,Embraer,Engenharias,Indústria aeronáutica,Engenheiro de produção,São Paulo,São José dos Campos
+236de74c-7e8e-4c8f-bb57-3178ae40e2d2,Hospital do Coração,Ciências Médicas,Hospital especializado,Médico cardiologista,São Paulo,São Paulo
+b9263b5f-4d67-4ed4-bb62-38f5cfc0e923,BRK Ambiental,Engenharias,Empresa de saneamento,Engenheiro ambiental,Rio de Janeiro,Rio de Janeiro
+11e16e25-b0d6-44f3-80a6-6a60e854df7e,Hospital Beneficência Portuguesa,Ciências Médicas,Hospital privado,Médico residente,São Paulo,São Paulo
+ff1c772b-1e2b-4a72-8dcd-8439615c7764,Localiza,Gestão & Negócios,Empresa de aluguel de carros,Atendente,São Paulo,Campinas
+67d3c5f4-7a4b-42c2-bd59-5866aa5d1ec8,Hospital das Clínicas de Porto Alegre,Ciências Médicas,Hospital universitário,Enfermeiro,Rio Grande do Sul,Porto Alegre
+2cb59a8e-97eb-4273-a1f7-44e8a2ad2b09,CIEE,Ciências Humanas,Organização de estágios e oportunidades,Analista de RH,Rio de Janeiro,Rio de Janeiro
+3b9654c1-4f1a-46f6-837d-26ebf7f9d3e6,Grupo Boticário,Comunicação & Artes,Empresa de cosméticos,Promotor de vendas,Santa Catarina,Blumenau
+e58e3d3c-fd0b-4bb4-9f61-f7a272bcfa3a,Hospital de Clínicas de Curitiba,Ciências Médicas,Hospital universitário,Médico residente,Paraná,Curitiba
+a42993e7-701f-4e89-86a0-cd0e3de1187b,Banco Itaú,Gestão & Negócios,Banco privado,Gerente de contas,São Paulo,São Paulo
+fbc11326-42c3-4c7d-94a5-f9a8c58d53f7,Hospital São Vicente de Paulo,Ciências Médicas,Hospital filantrópico,Enfermeiro,Rio Grande do Sul,Porto Alegre
+51a0e59b-4c3d-4ea2-83fa-03a95e9bc0a8,Companhia Energética de Minas Gerais,Engenharias,Empresa de energia,Engenheiro eletricista,Minas Gerais,Belo Horizonte
+be251f3f-c7c8-4b12-b3cc-67b740bd3e96,Hospital Municipal de São José dos Campos,Ciências Médicas,Hospital público,Assistente administrativo,São Paulo,São José dos Campos
+c729bd9e-6824-4b87-9b87-d4914127e692,Hospital Geral de Fortaleza,Ciências Médicas,Hospital público,Médico plantonista,Ceará,Fortaleza
+92d7c36a-21a1-43e2-8045-c7a394e2ea14,Embrapa,Ciências Agrárias & Meio Ambiente,Empresa de pesquisa agropecuária,Pesquisador agrícola,DF,Brasília
+b11a5c87-8758-40a1-9d07-cdd872deca0f,Hospital Evangélico de Londrina,Ciências Médicas,Hospital privado,Enfermeiro,Paraná,Londrina
+2d9a7b98-b7f7-44ea-bf08-30623a8f01ed,Rede D’Or São Luiz,Ciências Médicas,Grupo hospitalar,Médico plantonista,Rio de Janeiro,Rio de Janeiro
+d1342f81-9f56-44a2-9d4e-68a2c27f0710,Grupo Algar,Gestão & Negócios,Empresa de telecomunicações e serviços,Analista comercial,Minas Gerais,Uberlândia
+a9513ec9-73e2-4eaf-8927-7d481e6ebd88,Hospital São Rafael,Ciências Médicas,Hospital privado,Enfermeiro,Bahia,São Salvador
+3a2f57b4-1b9c-4cd2-a48b-490ade04eae4,Grupo Fleury,Ciências Médicas,Diagnóstico médico,Auxiliar de laboratório,São Paulo,São Paulo
+fcbe5c75-cc4d-4f74-981d-11a9d6dbf7d6,Hospital das Clínicas de Ribeirão Preto,Ciências Médicas,Hospital universitário,Médico residente,São Paulo,Ribeirão Preto
+bdcdd6a4-e812-4c28-b85c-7490d6bc4371,MRV Engenharia,Engenharias,Incorporação e construção civil,Engenheiro civil,Minas Gerais,Belo Horizonte
+4e0cae36-36e1-4c3d-883e-461d4f8672d9,Hospital São Lucas, Ciêncais Médicas,Hospital privado,Assistente administrativo,Rio Grande do Sul,Porto Alegre
+45c3442b-9a47-4ee1-bd7c-2e0cb88b3fda,CIEE,Ciências Humanas,Organização de estágios e oportunidades,Coordenador de projetos,Rio de Janeiro,Rio de Janeiro
+72f4c187-9d4f-4fbb-b1af-07c35b53c6c7,Banco Santander,Gestão & Negócios,Banco privado,Analista de crédito,São Paulo,São Paulo
+e7927ab0-7ff3-4ee4-9a21-cb7322e53b53,Hospital Moinhos de Vento,Ciências Médicas,Hospital privado,Enfermeiro,Rio Grande do Sul,Porto Alegre
+da3c4b58-08a0-4744-8a9a-0d5b8f8237a7,Unimed,Ciências Médicas,Plano de saúde,Recepcionista,Rio de Janeiro,Rio de Janeiro
+da1a84f3-cbc1-496e-b99d-46473c1e48b3,Grupo Pão de Açúcar,Gestão & Negócios,Rede de supermercados,Gerente de supermercado,São Paulo,São Paulo
+2aebd1e6-bd0e-4c9a-9d5e-b8eae7e7f4db,Hospital Santa Catarina,Ciências Médicas,Hospital privado,Médico plantonista,Santa Catarina,Florianópolis
+7de9e1e9-5a55-4c13-9082-68d53bbdb763,CPFL Energia,Engenharias,Empresa de energia,Engenheiro elétrico,São Paulo,São Paulo
+9c2f3d4f-345b-4231-9f7a-8758b8a23d4e,Hospital São José,Ciências Médicas,Hospital privado,Auxiliar de enfermagem,São Paulo,São Paulo
+d4a1d291-0f0e-4b2d-8358-5d8e0f7a7e6e,Banco Bradesco,Gestão & Negócios,Banco privado,Gerente de contas,Rio de Janeiro,Rio de Janeiro
+26d1f6a2-530c-4a72-8af9-1c30b4a2c3c5,Hospital Albert Einstein,Ciências Médicas,Hospital de referência,Médico cirurgião,São Paulo,São Paulo
+f3c5671e-6c3b-4bca-9b20-f4d9f7a7e78a,Localiza,Gestão & Negócios,Empresa de aluguel de veículos,Atendente,São Paulo,Campinas
+50e0b8a3-0a4c-4a82-b3d7-0c32f8b7d9f4,Hospital do Coração,Ciências Médicas,Hospital especializado,Médico cardiologista,São Paulo,São Paulo
+24c179b9-9e4d-4eb3-8c5f-2a728f967d91,Banco Itaú,Gestão & Negócios,Banco privado,Analista financeiro,São Paulo,São Paulo
+d5f31e97-03e9-48de-9f87-2c3f8bd9e8e4,Hospital das Clínicas de Porto Alegre,Ciências Médicas,Hospital universitário,Enfermeiro,Rio Grande do Sul,Porto Alegre
+8ea7b4b6-4fcb-4a9b-8c3b-53a4f26d8b72,Grupo Boticário,Comunicação & Artes,Empresa de cosméticos,Consultor de vendas,Paraná,Curitiba
+e3276a8d-9cfa-4d87-a19b-12e4c5a8b1e3,CIEE,Ciências Humanas,Organização de estágios,Analista de RH,São Paulo,São Paulo
+7d49b15c-9c29-4e79-9b78-72f6d5a7e1e2,Hospital Geral de Fortaleza,Ciências Médicas,Hospital público,Médico plantonista,Ceará,Fortaleza
+a3f5b1e3-4f72-4a4a-bc78-fdba2e8f8a3f,Embraer,Engenharias,Indústria aeronáutica,Engenheiro de produção,São Paulo,São José dos Campos
+bfc3a287-7f53-4a61-bcca-48a6c2a7e32f,Hospital Beneficência Portuguesa,Ciências Médicas,Hospital privado,Médico residente,São Paulo,São Paulo
+8fa1c7e9-4db3-4a94-a537-9e7c1b3d5e8f,Amil,Ciências Médicas,Plano de saúde,Assistente administrativo,Rio de Janeiro,Niterói
+467f36e9-4a4e-4f9b-8c0f-2d9e7b4f1a9d,Hospital Evangélico de Londrina,Ciências Médicas,Hospital privado,Enfermeiro,Paraná,Londrina
+a1d2e0b7-5d4b-40d4-9ed4-17a8c65f7b8e,Suzano Papel & Celulose,Engenharias,Empresa de papel e celulose,Analista ambiental,São Paulo,Ribeirão Preto
+3a98f1b9-2c4d-4e5b-8fbd-56a7c9d8e1b3,Grupo CCR,Engenharias,Infraestrutura de transportes,Engenheiro civil,São Paulo,São Paulo
+f2a6c97d-7a5e-4b7d-81f7-91a9f63c8d4b,Hospital Santa Casa de Misericórdia,Ciências Médicas,Hospital filantrópico,Médico cirurgião,Minas Gerais,Belo Horizonte
+e7d1c3f9-5b6e-44e7-b7f4-d3b97e62b9d0,Banco do Brasil,Gestão & Negócios,Banco público,Analista financeiro,Rio de Janeiro,Rio de Janeiro
+06b3c4a7-8d2f-40e5-bb7c-5a9f1d3e8b7c,Hospital Sírio-Libanês,Ciências Médicas,Hospital privado,Enfermeiro,São Paulo,São Paulo
+8a1f2d7c-3e5a-4b28-8dbe-98f7a6e4b5d2,Grupo Algar,Gestão & Negócios,Empresa de telecomunicações,Analista comercial,Minas Gerais,Uberlândia
