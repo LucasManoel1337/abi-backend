@@ -17,6 +17,5 @@ projectABI\service\security\CripDescripSenhaService.class
 projectABI\repository\CadastroRepository.class
 projectABI\config\DatabaseConfig.class
 projectABI\config\CorsConfig.class
-projectABI\dto\EntrevistaDto.class
 projectABI\repository\EmpresasRepository.class
 projectABI\BaseApplication.class
