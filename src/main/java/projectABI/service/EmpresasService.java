@@ -22,10 +22,25 @@ public class EmpresasService {
         return empresasRepository.findAll(pageable).getContent();
     }
 
-    public List<EmpresasDto> listarEmpresasFiltro(int qnt, int pagina, String filtro) {
+    public List<EmpresasDto> listarEmpresasFiltro(int qnt, int pagina, String categoria, String estado) {
         List<EmpresasDto> todas = empresasRepository.findAll()
                 .stream()
-                .filter(emp -> emp.getCategoria().equalsIgnoreCase(filtro))
+                .filter(emp -> {
+                    boolean matchCategoria = true;
+                    boolean matchEstado = true;
+
+                    if (categoria != null && !categoria.isBlank()) {
+                        if (emp.getCategoria() == null) return false;
+                        matchCategoria = emp.getCategoria().trim().equalsIgnoreCase(categoria.trim());
+                    }
+
+                    if (estado != null && !estado.isBlank()) {
+                        if (emp.getEstado() == null) return false;
+                        matchEstado = emp.getEstado().trim().equalsIgnoreCase(estado.trim());
+                    }
+
+                    return matchCategoria && matchEstado;
+                })
                 .toList();
 
         int inicio = (pagina - 1) * qnt;

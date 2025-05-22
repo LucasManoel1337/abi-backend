@@ -31,7 +31,11 @@ public class EmpresasController {
     }
 
     @GetMapping("/listar-empresas/filtro")
-    public List<EmpresasDto> listarEmpresas(@RequestParam("qnt") int qnt, @RequestParam("pagina") int pagina, @RequestParam("filtro") String filtro){
-        return service.listarEmpresasFiltro(qnt, pagina, filtro);
+    public List<EmpresasDto> listarEmpresas(
+            @RequestParam("qnt") int qnt,
+            @RequestParam("pagina") int pagina,
+            @RequestParam(value = "categoria", required = false) String categoria,
+            @RequestParam(value = "estado", required = false) String estado) {
+        return service.listarEmpresasFiltro(qnt, pagina, categoria, estado);
     }
 }
