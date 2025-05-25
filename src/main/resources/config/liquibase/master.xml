@@ -21,4 +21,12 @@
                 encoding="UTF-8"/>
     </changeSet>
 
+    <changeSet id="105525052025" author="lucas">
+        <loadData
+                file="config/liquibase/carga/CargaUniversidadesDto.csv"
+                separator=","
+                tableName="universidades_dto"
+                encoding="UTF-8"/>
+    </changeSet>
+
 </databaseChangeLog>

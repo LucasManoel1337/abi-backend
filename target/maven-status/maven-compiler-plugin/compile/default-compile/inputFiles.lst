@@ -1,5 +1,6 @@
 C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\controller\LoginController.java
 C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\service\CadastroService.java
+C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\repository\UniversidadesRepository.java
 C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\dto\BolsasDto.java
 C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\service\LoginService.java
 C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\config\CorsConfig.java
@@ -9,7 +10,10 @@ C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\
 C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\repository\BolsasRepository.java
 C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\BaseApplication.java
 C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\properties\DatabaseConfigProperties.java
+C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\dto\UniversidadesDto.java
+C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\controller\UniversidadesController.java
 C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\service\security\CripDescripSenhaService.java
+C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\service\UniversidadesService.java
 C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\controller\BolsasController.java
 C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\service\BolsasService.java
 C:\Users\LKZ\Documents\Projeto Spring Boot\abi-backend\src\main\java\projectABI\repository\CadastroRepository.java

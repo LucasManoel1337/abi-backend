@@ -6,9 +6,11 @@ projectABI\service\BolsasService.class
 projectABI\controller\EmpresasController.class
 projectABI\service\LoginService.class
 projectABI\dto\LoginDto.class
+projectABI\dto\UniversidadesDto.class
 projectABI\service\EmpresasService.class
 projectABI\config\CorsConfig$1.class
 projectABI\dto\EmpresasDto.class
+projectABI\service\UniversidadesService.class
 projectABI\controller\LoginController.class
 projectABI\dto\BolsasDto.class
 projectABI\dto\CadastroDto.class
@@ -16,6 +18,8 @@ projectABI\properties\DatabaseConfigProperties.class
 projectABI\service\security\CripDescripSenhaService.class
 projectABI\repository\CadastroRepository.class
 projectABI\config\DatabaseConfig.class
+projectABI\repository\UniversidadesRepository.class
 projectABI\config\CorsConfig.class
+projectABI\controller\UniversidadesController.class
 projectABI\repository\EmpresasRepository.class
 projectABI\BaseApplication.class
