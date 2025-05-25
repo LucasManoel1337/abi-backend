@@ -1,5 +1,7 @@
 projectABI\controller\BolsasController.class
 projectABI\repository\BolsasRepository.class
+projectABI\service\AgendamentosService.class
+projectABI\controller\AgendamentosController.class
 projectABI\controller\CadastroController.class
 projectABI\service\CadastroService.class
 projectABI\service\BolsasService.class
@@ -10,12 +12,14 @@ projectABI\dto\UniversidadesDto.class
 projectABI\service\EmpresasService.class
 projectABI\config\CorsConfig$1.class
 projectABI\dto\EmpresasDto.class
+projectABI\repository\AgendamentosRepository.class
 projectABI\service\UniversidadesService.class
 projectABI\controller\LoginController.class
 projectABI\dto\BolsasDto.class
 projectABI\dto\CadastroDto.class
 projectABI\properties\DatabaseConfigProperties.class
 projectABI\service\security\CripDescripSenhaService.class
+projectABI\dto\AgendamentosDto.class
 projectABI\repository\CadastroRepository.class
 projectABI\config\DatabaseConfig.class
 projectABI\repository\UniversidadesRepository.class
