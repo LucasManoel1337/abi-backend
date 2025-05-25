@@ -30,7 +30,7 @@ public class AgendamentosController {
     }
 
     @GetMapping("/buscar-agendamentos/{id}")
-    public Optional<AgendamentosDto> buscarAgendamentos(@PathVariable("id") String id){
+    public List<AgendamentosDto> buscarAgendamentos(@PathVariable("id") String id){
         return service.buscarAgendamentos(id);
     }
 

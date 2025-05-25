@@ -32,7 +32,7 @@ public class AgendamentosService {
         repository.save(novoAgendamento);
     }
 
-    public Optional<AgendamentosDto> buscarAgendamentos(String id){
+    public List<AgendamentosDto> buscarAgendamentos(String id){
         return repository.findAllByIdUsuario(id);
     }
 
